@@ -1,0 +1,51 @@
+{
+    "root_path": "/Users/mfyx/alzy/test/Beimingwu/backend",
+    "upload_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/upload",
+    "temp_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/temp",
+    "backup_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/backup",
+    "log_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/logs",
+    "backup_max_count": 7,
+    "remove_upload_file": false,
+    "register_email_patterns": [
+        ""
+    ],
+    "database": {
+        "type": "sqlalchemy",
+        "url_read": "sqlite:////Users/mfyx/alzy/test/Beimingwu/backend_data/database.db",
+        "url": "sqlite:////Users/mfyx/alzy/test/Beimingwu/backend_data/database.db"
+    },
+    "engine": {
+        "type": "hetero",
+        "market_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/learnware",
+        "property_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/property.json",
+        "load_mode": "database"
+    },
+    "listen_port": 8088,
+    "listen_address": "0.0.0.0",
+    "verify_timeout": 1800,
+    "verify_proxy": "",
+    "backend_host": "127.0.0.1",
+    "app_secret_key": "my_secret_key",
+    "email": {
+        "smtp_server": "",
+        "smtp_port": 465,
+        "smtp_ssl": true,
+        "smtp_username": "",
+        "smtp_password": "",
+        "sender_email": "",
+        "verification_url": "",
+        "reset_password_url": "",
+        "proxy_host": "",
+        "proxy_port": 0
+    },
+    "redis": {
+        "host": "127.0.0.1",
+        "port": 6379
+    },
+    "sensitive_word_file": "tests/data/sensitive_word.txt",
+    "user_agreement_file": "",
+    "privacy_policy_file": "",
+    "datasets_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/datasets",
+    "env_path": "/Users/mfyx/alzy/test/Beimingwu/backend_data/envs",
+    "learnware_checker_type": "conda"
+}
