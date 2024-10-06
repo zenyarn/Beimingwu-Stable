@@ -1,0 +1,1803 @@
+14ae8965de02bfb59615f0853057692771272a5a 初步部署前后端
+a71b643dbd219665728e04339fdd0ba6c66c4958 Merge pull request #1 from Learnware-LAMDA/github_link
+ade40c5d51698a890f5898a4afc0f1b2e7874b65 perf(docs): change the link
+7f56270dd48d529b012e1e88f9935f846ebec21e perf(frontend): add the github link
+e527d0000d715b4373ceef0b84f1bb1319ed150b perf(docs): polish docs
+5acb7406c05e423c077f09e5ce199b2791821cef perf(frontend): polish contents
+4a769fda3aa233af0325be73fc7414c689fe553b fix(backend): add workflow for pull request of backend
+23f43fe7c26cf02b21df8774f3740bb9a156b696 Merge pull request #321 from Learnware-LAMDA/fix(docs)/readme_zh
+68ac6b0333c2cbd3af8a3b720b50ef039605ec0f fix(docs): fix details
+3b736e456583d6f12b49de079b1543d05868da79 Merge pull request #320 from Learnware-LAMDA/perf(docs)/gitee
+83ecf8b7fd62bf91304038936c404c63f4e1eb13 perf(docs): add pr template for gitee
+00d12ebbeb067ed90998c4c322d11e3fe2958a01 Merge pull request #319 from Learnware-LAMDA/perf(docs)/readme
+8d5e5d7666229fdd2994609cc35ffd9df72b6063 perf(docs): modify details
+b8eb429a2043abf097b20b0f7fa1a831f4a6bc08 Merge pull request #317 from Learnware-LAMDA/feat(-)/change_git_icon
+139abcc1798c8007e2a80bd4e387f7aadb1701eb Merge pull request #318 from Learnware-LAMDA/fix(docs)/readme
+89e99a5f0162da3a5456247153ae0638cd31d693 feat(docs): change feature icon from github to gitee
+55addee71180f1d84400ce6f4913e72ce9b4759e perf(docs): change url about website and repo
+2bd793d1bae3955ab3c4e88969b241d6145eb652 perf(docs): modify badge and url
+1cee323f11b3260b51727144a775dcf47cec3154 feat(docs): github -> gitee
+d591541fceae21ba0394e0c04f1ac9e5a87bf266 feat(frontend): github -> gitee
+8292f701a2dead26e87f7085000f3762c416c9bc Merge pull request #316 from Learnware-LAMDA/fix(docs)/beimingwu
+cc6e72a03a9de3b75049ee9e62429bcba858ad02 fix(deploy): change repo name
+948d663e96a2401d74f8c1c362a0bf6413eebc13 fix(docs): change to beimingwu
+545d1d5e292d42f5d73d1388cad4817c5cd43d55 Merge pull request #315 from Learnware-LAMDA/perf(docs)/source
+b1a08bb8329edd1821198a020235b9e74937c5ee perf(docs): modify details about open-source
+f761f3852427e6a6bb67895e496530f0c29867dd Merge pull request #314 from Learnware-LAMDA/feat(docs)/issue_template
+e404777c5374d0633229eae67f9947efaa4010d2 feat(docs): add the question issue template
+cdeb815d8298e176ab9208b75774dfa7bedc44bb feat(docs): add the feature-report issue template
+abe36e55490456d7defba288bd0fcbb53496b6d1 feat(docs): add the documentation issue template
+a5ebea99db8762dcb32c21e851824bc79cd4e711 feat(docs): add the bug-report issue template
+09eee1003ebff93942307ab32b7e6abcd82dd244 feat(docs): add the pr template
+b6f7c0d321914d89845ff11a60f8eb059cbd9d3f Merge pull request #313 from Learnware-LAMDA/fix_enlarge_gunicorn_timeout
+2da454828a69211d35f5b341ba32503f6b032b0e fix(backend): enlarge gunicorn timeout to 10 hours
+ed6ee52e8d048ae28eef7928ff62a77e17b72797 Merge pull request #312 from Learnware-LAMDA/log_gunicorn
+509d0101192fcedf71b7d5556ba31f1e10169ee9 fix(backend): open log for gunicorn server
+80ee10eeaac35de678043edf48ac643a756f604a Merge pull request #311 from Learnware-LAMDA/docs(backend)/readme
+18e7f45aa4d37ff632dcb2f0e19638a28b6fece6 docs(backend): modify figure size in readme
+d215c9c5c13b393c73e372f5c127e32a43a47d57 Merge pull request #310 from Learnware-LAMDA/feat(docs)/security
+846dcc61ef74701c7e590ee80b05a9c8527acba5 feat(docs): add the security policy
+a1b10e89888a4bd9dea2edc9ed765c30ef0c961d Merge pull request #309 from Learnware-LAMDA/perf(docs)/readme_zh
+0c165c49cc7092b9d1a0f12fb7c89bb49e5181a7 perf(docs): modify details about demo cases
+d9c97336a652a7c414e48e84350e99e842d6a922 feat(docs): add readme of Chinese version
+90f740615954eeecd9b2561df3e1fce3119e72fa feat(docs): add code of conduct
+327fe320831e24588a00ef6be46205a61db5e44b perf(docs): modify details
+4d5dab588d12c90f190b5d7557e89846b90c41f6 Merge pull request #308 from Learnware-LAMDA/feat(docs)/about_us
+207b157bc5a01e04f83c6a5938843815b3543a59 fix(docs): modify details in team overview
+2945bcca4b5e9b049cc926bc5fd03760fc344626 Merge pull request #307 from Learnware-LAMDA/perf(docs)/readme
+4f4a8f9cd5e0cb512759ad2da148bc1d86e150de perf(docs): add citation and modify about us
+c59508bb86732b99b7deab6efaa875db78808105 Merge pull request #306 from Learnware-LAMDA/fix(frontend)/about_url
+959bc35348836884992f0d046c7fb34f63832b74 fix(frontend): change about us url
+b9ccfee3003da6a36d0d521b3fdb789b90f883cf feat(frontend): add AboutUs url
+511ed1be3d0d64915af1383c1ea2f73daf812f45 Merge pull request #305 from Learnware-LAMDA/feat(docs)/about_us
+ebfe6c35fd052e13b5d12bfc705d90434856e6da feat(docs): add about us
+242d81f1ce7e897767285cb288cb32832343e2f6 perf(docs): add team in versions
+22da1c852133d27a1dc56e06da7783d1aa8b8d2e Merge pull request #304 from Learnware-LAMDA/docs/modify_readme
+b2a30041c708096dbfe552b5b55de23b0450c7f9 perf(docs): update readme
+ec018a1f84c109be57b03c97d3f54c53225a40ee Merge pull request #303 from Learnware-LAMDA/docs/modify_readme
+95e34f45c145b3961f8f8f817b8eff0fa4d02ab9 docs(*): update project readme
+5dae0245faaa5de8cb39b9bdd9cd3a8d4f09d9d6 perf(docs): add system architecture figure
+6e970a6b96a96afeae409c45fb08031adc0a6376 feat(*): add license
+2c5db9ca82261f27800f629753f44c4f736bba41 perf(docs): update figures in quick-start
+4bd5724c6fc2e00d37439de9a97369b705dbd496 perf(docs): add references in overview
+71b6ce7ace832b5a49c0401bba2374e01b25db95 Merge pull request #302 from Learnware-LAMDA/optimize_qps
+cf28fbd7ba55ccd093331cbe05bdc7b5ea8c35bd fix(backend): change backend server to gunicorn
+c35fa5e68dc56d2b58c9f9d5110434397604e4a5 docs(deploy): modify readme in delpoy
+ed2b032c6bd67d862ed7fe032baea72f97ca98e0 docs(deploy): modify readme about docker compose
+39e59b98c8b544bf0aa96f442cf6f3532f619151 perf(docs): polish details
+0aa29f76c4acd089a76f3582b713130933d8f6b4 docs(frontend): modify readme in frontend
+eb7c52e99c25871246f947757d55de87d484fa7f docs(backend): modify docs
+120ad6a946c62f6f66f532a4e5028f66557588a7 Merge pull request #301 from Learnware-LAMDA/hotfix(frontend)/svg_clip_error
+4ddef14d42666f97da530278b80f6928c0acb2b7 perf(frontend): compress by svgo
+28e4e53ca4035f54674b3020f6614a519a69e5f0 fix(frontend): no background in dark mode
+8a66e6a87c5a70e5ece13cab3e8fa3d4fa7d3a12 fix(frontend): tasks svg out of order
+2cc672c7c2977538cdb3b9a2cde35edc3d65ded1 fix(backend): change threaded to false
+0d577b42c7acada11f87679d6c8a0c0d7e215523 Merge pull request #300 from Learnware-LAMDA/separate_read_write
+fdcf5f034fe96543faa53331c0d83b3086f34cfd Merge pull request #299 from Learnware-LAMDA/perf(frontend)/new_logo
+92c05205357dd1ffb0abd407b3489ff2e2907594 perf(frontend): change new logo for admin
+939a63ad494d51f6a6d9a82713780a2ad58d3d5e Merge pull request #298 from Learnware-LAMDA/perf(docs)/new_logo
+f920b9c89e018034b99bd97bab2c8b5fd3569fc9 Merge pull request #297 from Learnware-LAMDA/perf(frontend)/new_logo
+13e3610636e5910d30ceba6408494b7a2e689978 Merge pull request #296 from Learnware-LAMDA/perf(frontend)/privacy_figure_zhcn
+9dda763e44b146bf08be0cfe8b1f741dc1ae2f24 perf(frontend): remove gradient background
+bf7e828c493e6f4faff9f5dcb4712b1e8f0624bf perf(frontend): change new logo
+b91c9ce4b0145470f04860f322ceed3ab0b8af6a perf(frontend): change new logo
+af859320a1932f01c7c660d99d8e6310565d84d5 perf(frontend): add chinese version for privacy figure
+89f2a9cf2413d721c08727faa6acabd03c413d72 Merge pull request #295 from Learnware-LAMDA/perf(frontend)/homepage_text
+d190602463a4f1916d839258177eb8827f7fae44 style(frontend): modify text in home page
+a1c6deacde075125e1a089ca82fc2e0b617f7971 perf(frontend): modify homepage text
+3a6dcf25615141abd69c30c96687b99124436893 fix(backend): add more read_only flag in database operations
+461ff49255d9370ad1b60d255f3a052e4bfef21a feat(backend): separate read and write operations in database
+14520165b2c7b324aa221d5eac170190c69423e0 Merge pull request #292 from Learnware-LAMDA/offline_check
+e0bc3ec918bf7f33de3641b483a2884f554d9c2a Merge pull request #294 from Learnware-LAMDA/health_check
+92ff5f1c42b8630bd388cd928ca66ff3592b2484 feat(backend): add url for health check
+9b6028715ffe4dac34be1385fc6057a2178cc112 Merge pull request #293 from Learnware-LAMDA/fix(docs)/intro
+578ebf0ee9297ff0efe9572cca16656395287351 fix(docs): fix details in intro
+66857fa2a83db53027a216635953126780b99475 feat(backend): verify learnware offline
+fc669fef0e8d6a1739c42991514f1a7526cb1960 Merge pull request #291 from Learnware-LAMDA/fix(backend)/fix_typo
+cfed053ea85447fc0c7773c2f3924d16403438f0 fix(backend): fix typo
+26accf4fc812620cd94c7d165a5aec65045a9bf5 Merge pull request #290 from Learnware-LAMDA/fix(docs)/fix_deploy
+07f51fe2ae6644a3495aba4021ec235a7c8f4772 fix(docs): remove <br>
+fc5de8dc82a98768bf7317d6b616a162f69e696f Merge pull request #287 from Learnware-LAMDA/fix_docker_doc
+58d960146be9b9ef397500adfe06dd8d55659088 Merge pull request #286 from Learnware-LAMDA/add_docker_relates
+d68e5d4cf42431e8194baa6fa7546c464a6234b1 Merge pull request #288 from Learnware-LAMDA/feat(frontend)/reorganize_dataset_view
+faee8ee158c15dea90889321d68e225d2f961777 Merge pull request #289 from Learnware-LAMDA/fix_monitor
+cd75d8876936f9d28e108fba952ba4ef76650518 fix(backend): fix file not found error
+e32d81d278caa8b5846f2328dad6883cddc07b7a feat(frontend): show datasets in tree view
+aaa447eb2ffa576bba1855117ec971eda62a0c8e fix(docs): fix docs for docker compose deployment
+aaa903b1ae6203374bc4e88fd5b1321e0632cef1 fix(backend): bug fix for docker compose
+2f972e00df0c3f89e5bd89f2c673d6349d685123 fix(backend): add readme for docker compose
+098fa4eb5c58214a1801d2af03e0c95300d1c8d4 fix(backend): add monitor and admin in docker compose
+2544e3fd9debf6eccaf4908ad48f4dcdd717c939 feat(backend): add dockerfile for docker-compose of single machine deployment
+0d548705e22575d1bc04b2ad32342a2de3ba881c Merge pull request #283 from Learnware-LAMDA/add_repack_hash
+dc53b18307e98fa5d29b459ff27bdf3c5ada674f Merge pull request #277 from Learnware-LAMDA/perf(frontend)/dataset_style_opt
+9ca47845374ace5ee940a89ab1d171d3a87f7360 Merge pull request #278 from Learnware-LAMDA/perf(backend)/datasets
+654710431adfdb771c3f51b2410b7a6aa4703ee8 Merge pull request #285 from Learnware-LAMDA/remove_protocol
+b3dfe23cda462cfd5f1eaec5ce64fabe310ab3a0 fix(backend): remove backend url
+f72acc7cb8231033753abc7963a5e70c691d4de6 Merge pull request #281 from Learnware-LAMDA/perf(frontend)/modify_figures
+72e32ed92e134f25e0d5f03c5e017abf2ed228ee Merge pull request #282 from Learnware-LAMDA/backend_content_size
+a0461ec20a00d72c43d081719827302688dd248f fix(backend): set backend content size to 16G
+71461bbee8738484638b596b88d2f7668c5973f5 feat(backend): add repack hash to learnware hash
+453113b213b70a0b4c617e2a99110d9667a84b18 perf(docs): modify zh-CN figure
+c2392990eb3bf78585c6ad5de26ba144f598759a perf(docs): modify specification world figures
+590b98fcc6c369385b75be56c26bf6077ac13330 Merge pull request #280 from Learnware-LAMDA/backend_content_size
+193c9a469010cbf2a73f2a62aa2ef9e0abed3ec8 fix(backend): set backend content size to 5G
+1c047c0ad999f3a999023d1d7174b674fc4a5dbd Merge pull request #279 from Learnware-LAMDA/fix(frontend)/fig_name
+64dcf55a83be5c29787958ec813c410a8cef4587 fix(frontend): modify figure name
+03b8d5ff92161d12f0f87c72b62d3d1b757acc38 perf(backend): modify DatasetsList return format
+1c30967bace72010269a78e554c9cc80c14f3aaf Merge pull request #276 from Learnware-LAMDA/hotfix(frontend)/update_learnware_bugs
+ee3c5f83324267a97a35e5f955d69a2937aef9b5 Merge pull request #271 from Learnware-LAMDA/perf(frontend)/reform_homepage
+3c50864fb16af7daae6807539f9657a2f8dbd7f0 perf(frontend): redesign datasets page
+1eec6cb2610ad290c18ef4b1665dc36355c54e74 feat(frontend): translate datasets page
+827d5074c80eb9f9b58402ed6a089564cde515a9 perf(frontend): recolor confirm button
+3bf0cff6a469c0dd8ff7802e762868678fa11284 perf(frontend): resize hint
+6152978b0199d52575f9e4614461677d908d9481 fix(frontend): use warning color
+7be752be33a362c665c325c28db6906f34d61cb0 perf(frontend): change router icons
+0efbbaa2f9f843c20207f4718a6542c7b07074e6 fix(frontend): description not show when empty
+889420f93e4a9faba05ad7be65d9398c55f6627d perf(frontend): optimize hover color
+e878bd5afa04227cbed410d402f73a613a99bd0d perf(frontend): optimize active step rule
+494a13f47dfab6ce2c996e7bb3323720130bfe45 perf(frontend): reorganize locale text
+568c6e4a446782457626e44a3c0c9ad90308fc34 Merge pull request #275 from Learnware-LAMDA/fix_sensitive_words
+6206dd2e825b8a260196e3f03d592f97663176d6 fix(backend): bug fix for sensitive words
+39e834322ddab0239f8479f4785b92677b020f76 Merge pull request #274 from Learnware-LAMDA/fix_sensitive_words
+ff0c48d3b4466b8258bf3a02a28a4d9aaaa18970 fix(backend): do not check sensitive words in Input and Output of semantic specification
+295e70d8bbfb348517b33f8bf0666d9ac6263373 Merge pull request #270 from Learnware-LAMDA/datasets_page
+5a94b9e799a4f4dbc0ebb7ccb20bd437e45c724d Merge pull request #273 from Learnware-LAMDA/perf(frontend)/update_text_figure
+2a83b5b541dc6df268ec8244f3dd0acf572eade4 chore(docs): merge main branch
+8030958afdedd027987380cc7b20d7939fd6d083 perf(frontend): modify framework picture
+c535e3326360f347b64bd80db39677d6c564c35f perf(frontend): polish homepage english
+1c00a773fc525da001df560f38db37ad9ca27d72 Merge pull request #272 from Learnware-LAMDA/perf(docs)/learnware_upload
+0df7392dd0a935cd66810dac0a1e1a6078a4c825 perf(docs): modify figure url
+0191e00f20aaac2161894844ee46600b27a40550 perf(docs): add more details in learnware upload
+48163cf3650cf8a3ba8be48078de2aee8bb77f1b perf(frontend): compress by svgo
+8fef0ee00828ebf5812cc74e99a44389c8f35c96 Merge pull request #266 from Learnware-LAMDA/perf(backend)/check_learnware
+b42071b128731eee3d767e45f271c3e7ddf601f4 Merge pull request #267 from Learnware-LAMDA/feat(backend)/fuzzy_id_search
+6e0deb59a846826b47c878603f1f4a80f738939f Merge pull request #265 from Learnware-LAMDA/feat(frontend)/user_show_verify
+fe1c2467c6ddddd3f4af7dde881547fb8b770b83 fix(frontend): wrong import url
+e5d49382753978d81ec22694335d32e097f52e35 fix(frontend): wrong import url
+228a020bd217a9a357dfc6bb05b437c84f27b2cd perf(backend): add data_type check in monitor
+9c121318f918499232016549c7a5716b66a97afc feat(frontend): main feature image for different languages
+da30af9292e40e234be2d5dfd0f1ad59506d7783 chore(frontend): replace - to _
+5efe312ac934329be9727b2ff808c21543a06562 feat(frontend): add datasets page in admin
+9a97dbcca439911312fdd0071b7c5d087b7a2b0c feat(backend): add dataset upload api
+8ad1925dc3e46e6d60849cf27bebaee2d66d339c perf(backend): modify update logic
+b1965d2e5f2774324eb71a24b52695cffa855262 Merge pull request #269 from Learnware-LAMDA/fix_datasets_path_2layer
+8193b92feee01869b17fcf5e9dfc8b17c79ca11d fix(backend): make datasets zip files in subfolder of dataset path
+76e2cbd1c76aaacc2c64f2cbe2cf5f62d9699f92 Merge pull request #268 from Learnware-LAMDA/change_datasets_path
+0672f3dc247ffdca063d75e0dd5cb326b9821587 fix(backend): change datasets path to data path
+7775345c9427f97fb0b743aa1f41b277ee8c15f7 fix(backend): fix test
+1a5536eebe526229c722b6ba1680509f2472147e fix(backend): fix details
+87685805dbf3f2a0cbe564a7e817714bf998eab7 fix(backend): fix details
+98060dd0dafad726208eb689237616f5e21b8af0 chore(backend): merge branch 'perf(backend)/check_learnware' into feat(backend)/fuzzy_id_search
+4fb0c72315b31732fd119ed59639478811b293b4 feat(backend): add learnware id fuzzy search
+dc17556256579032b0470bab0bad0d5978a96b75 chore(backend): merge branch main into perf(backend)/check_learnware
+31727b9ab94fa0939a9aeef6550973bab8c56a5a Merge pull request #263 from Learnware-LAMDA/feat(backend)/user_search
+7437e99a63fb4eedab18a44e73c0aa02f6360c99 perf(backend): update semantic without monitor
+1de1311ca921c42dc5397940d691e68464524909 perf(backend): add name & description length check
+d877cf140208b93ca92a2965bc6166eaa72984ef fix(backend): fix details
+32f9358ebb9eb352fd891965ecdc0fe11f441286 perf(frontend): smaller chip size
+00e02088d2dc4e01a1596c124d93510647765454 perf(frontend): translate status item
+3d838db3c53c4209a95c45f3eb5a963fd0cdce8d Merge pull request #264 from Learnware-LAMDA/fix_test_admin
+18b985fd1d64850292ffc1a7e4901d085c38693c feat(frontend): query verify status from summary
+760954b7ab4a45ab8b8f7951e10b493a3a66830e fix(backend): bug fix in initializing sensitive words
+f1429854b79eb7deca2274819b05d06453b1d024 feat(frontend): seperate user different status
+c5700b3fb4fa78c0ce826ee28eda12ba8b6455b5 fix(backend): fix search_sensitive_words
+322a064f68f77550a94c415faf9fa159d865e03e chore(backend): merge branch main into feat(backend)/user_search
+dbb2743357b81dadb3f783f45bf7d5b5acaab3cf feat(backend): add user search
+9e4c5de16f8cfa9ea09b699d1deb745ec585a9c6 Merge pull request #262 from Learnware-LAMDA/fix_test_admin
+ec4e0d341b44b5c42b909d6814cd26d25e3eaeef fix(backend): fix test admin error
+7dc007320af46ba80ab24dba81adf1087620775f Merge pull request #260 from Learnware-LAMDA/feat(docs)/user_policy
+4fc86a7d8d4db08df7589bb8165b2bfd15e6f1f3 Merge pull request #261 from Learnware-LAMDA/fix_move_sensitive_check
+6ad8648d79e57cb0682c845bbe5b603a08e1b90b fix(backend): move sensitive check in monitor
+1d28b32f60c9751bcfe0a802cbba7ef2c3b33fa4 feat(docs): modify details of User Agreement and Privacy Policy
+3f6679fb4b40eb94e91013d4035209ae5f393eec Merge pull request #259 from Learnware-LAMDA/perf(docs)/update_version
+9691dc236b56f770b6a6ff774b002b0c73e3f8e0 perf(docs): update learnware package version
+6f0acfc215edee82234889d54ed2437926cfd131 Merge pull request #258 from Learnware-LAMDA/perf(frontend)/optimization
+910f5012c9e6964a9a7e6bdc9f9cd9ebb98d3771 fix(frontend): fit dark theme for submiting
+5704b3d7def9aa84949f46ac8e399740f0ff3b8a Merge pull request #257 from Learnware-LAMDA/perf(frontend)/optimization
+0bf5e6ee86954e3788883a61f5befb500bf60e3f fix(frontend): argument position error
+a68f3539afec6c7f486de1ed66c8f06314759b35 perf(frontend): change color of label background
+c2c3ec50e8e325d1459d9c9007212ece56d1691a perf(frontend): optimize text style
+58c1f9f6f4d7fea9115ee56acbeccbaabca72e4b Merge pull request #256 from Learnware-LAMDA/refactor(frontend)/standardization
+d5755d789ecca78e7cd5071db086186e48b87260 Merge pull request #255 from Learnware-LAMDA/feat(frontend)/dark_mode
+6d78c9f35f33a912db3cf6c1bcc90779a270c544 perf(frontend): change example background color
+a43d2f63a6b88230a2d9dba6b62fcf4b7cc69094 refactor(frontend): unify input and output
+52cc80a49e84a6f9302e39e7d2d3d74d68d96cd7 perf(frontend): update open-on-hover and open-on-click behavior in AppBar
+2403b9f4b9544347382f2436b643aabec51e9f28 feat(frontend): open router menu on click
+9bb6855a7e0218fb02b697802a403714fe96002f perf(frontend): two cols in mobile view
+6c77db474cc293406b3ab66605b98168ed99275a perf(frontend): show language switcher in mobile view
+383b7067d222561fa7b759e81813b9d7bfc8506e perf(frontend): change language without router
+bdf8510f74a483f53fef7f988a4d520dc4a614e9 perf(frontend): reuse dayjs plugin in main
+cb5cd8548578e6d38e6536bb968ae0b721088b0d feat(frontend): fit dark theme
+be7c6bfd146c9ac873a0994db60b54395d5b85ba perf(frontend): reuse main files
+48eb817be56d389c9e246907c56777fe9eed3d72 perf(frontend): tailwind config from js to ts
+dbb2065c90f90234a2e3e57f1f1a1e3d5c48fb66 perf(frontend): tailwind config from js to ts
+61645c6e36d0893477d034fe566e0917a4db7ddc fix(frontend): irregular color in light mode
+12ae2c6adf26328db02d0371b4b08d6da9955e1a chore(*): Merge branch 'main' into feat(frontend)/adjust_dark_mode
+4b6a0186e6ce94cca9dd137b34acd1e75b849a9f feat(frontend): disable color-pack
+0e6c71cb212ca035086680ddfeb842b124c7ea30 Merge pull request #254 from Learnware-LAMDA/perf(frontend)/reform_homepage
+421aea18df394eaefc5a9cf0e20c4268bea8c671 feat(frontend): preliminarily adjust dark mode
+64cfa087e91e0176bf0a8ebe0e0655ad34683da9 fix(frontend): hide container when no feature/label description
+454791a69a8e2c1a1a5167f7c7eea61a037d14cf perf(frontend): add padding for image
+0d301c2dea8d344f8af24ae917914f1a6fd4372d perf(frontend): change feature titles size
+6b03b9e94ff82eaa160f0d68bb331ac23284b411 feat(frontend): translate system feature description
+f9e4daab6090ce31656e90506f5aa379d4e7790f perf(frontend): show horizontal figure in mobile view
+6bb009f5666aa9f68c1d63c27c26eb8fab137bce feat(frontend): add system feature title
+5ad4f53cda3ce667a12183ac8252b171928263a8 perf(frontend): increase max width
+811cd07396a60fbd7bcb51c5a30be002789dcd58 perf(frontend): reduce colored code
+b467a24e44734b72aa4c5052b9685d01858caba1 Merge pull request #250 from Learnware-LAMDA/log_to_file
+7952a757bed8e8a08530b5ec0751efe2391cee0e Merge pull request #253 from Learnware-LAMDA/perf(frontend)/style_opt
+2e4983eeca425bf392f99bdcad5ddb4dcfa1229c perf(frontend): optimize description style in card
+f189ef241376400a21f7b74b641c0049f9aaf052 perf(frontend): adjust font size and weight
+809b193a64ea80f4a81cb5d4323c70c78c32b55a Merge pull request #252 from Learnware-LAMDA/hotfix(frontend)/bugfix
+10d92461ca1438dc9738cfade71edd36fd598956 fix(frontend): remove GMT postfix
+6947df75e2c48c728fad8cc6dcab766ed3ed9beb perf(frontend): get locale by i18n.global
+51c997769a8a25e6ab9e26bc03d47afec74946f0 perf(frontend): compress by svgo
+676a7abe313d4e6b5af4ea1b72c56b1d1f78c8ba perf(frontend): optimize privacy figure
+af4859ede887d2c7d0f9e78b6c18d3f9a14c04c9 perf(frontend): move status to right top of card
+d56e0f27750dfca763b612a216243de139135dbd perf(frontend): optimize feature description style
+2f68b0c23c1059ce2dbfb40cea77540b4ba01479 fix(frontend): verify status size error
+34da4c77e9346468b92d5299aff27c9e0e827913 fix(frontend): change verify status icon
+2b2017c92f36831dd04d52d7f1b0af2b15e3710a fix(frontend): translate login first tips
+12174dcbc05e891982dbb1f5e71d2318f32e7bb1 fix(frontend): redirect after login
+2c4c55eb3413b86045bc22d127b399af6925e1f9 perf(frontend): optimize style
+21779b3f4719ec3e8f4255833a092c29c97b2394 fix(frontend): auth page border hidden
+f5a50c12d31abcaef99951d4675ba013957b91b5 perf(frontend): reform learnware detail page
+e53587e0c6e94b13d85ad6a7d2f0b0eecd98ba38 perf(frontend): optimize verifystatus style
+276f86027c07987cd724efbcebe3a70d78cd1b93 fix(frontend): card label no margin
+716b2d90697116b111126f3cb72f1da3f8d23139 Merge pull request #251 from Learnware-LAMDA/perf(frontend)/reform_homepage
+391e051ce2fd816da00863f3ebe56ae07c69d1dd perf(docs): simplify english and a few chinses
+c80a399603f146d300d1436b39f16230e3c16be5 perf(frontend): optmize dialog styles
+b83f47f9745781359fe6d90809fa609f72fba3bb perf(frontend): optimize some style
+eae748369ea5cf644556b3763d3b071b07fef104 feat(frontend): add privacy animation
+7a3cd3f9e4014b2f0bc81430f3b0b0a302de8912 perf(frontend): adjust font size and color
+691a7ac45906a435eddd444338411d4a7d6bd228 fix(frontend): fix some styles
+3a5c8e8010fbc23d66312588c7ee7b3d40aaf76a refactor(frontend): remove tailwindcss !important
+ece0aa27f1610f08ee4bc90f71d302bdbd4ada6a Merge pull request #249 from Learnware-LAMDA/fix_file_hash
+fc5a1fa46aadb20fd014fd0ce851a989d1f2ff94 feat(backend): put backend log to file
+881fd7675238d238b8681ff0fca7e76b5689e56f perf(frontend): optimize reset button style
+bb763e9f508a26aa2a2bb013e38dfbabed7f39e4 perf(frontend): optimize style
+1ada5e99b609539612f19736c229f3b37836cae3 fix(frontend): window flash
+9d1771aa1792ec88b2324a859499459ac0610c34 perf(frontend): polish text
+913c4aac7fd5c4235e419900fc4634677e38d28b perf(frontend): exchange position of terminal and browser
+82aab80fca311ce55aa86a64323f2d09f052b5fa fix(frontend): rkme requirement not update
+b4e360c4c9616373d5e7285b4799b9942eea935e fix(backend): update file hash when user update learnware file
+3cbc9131fe5906a1433f265512346eee5d805853 Merge pull request #248 from Learnware-LAMDA/remove_stop_words
+3c5eef29d73f0ee92dc8adad787079ffbde7f14f feat(backend): remove stop words before search sensitive words
+12229e529c4758597331099ce3c02cbd5c243b3b Merge pull request #243 from Learnware-LAMDA/file_hash_check
+f52aafac35bd733aca11ae0e230e73962a36ac5f Merge pull request #247 from Learnware-LAMDA/perf(frontend)/reform_homepage
+2b6e6ad5987b60d4caee1331fe3704265f8486b2 feat(frontend): add searching...
+d869292de1a3952ba000ec0057238f2edf56aaa6 chore(*): Merge branch 'main' into perf(frontend)/reform_homepage
+9067e09163a95489da36e27960ffd24621ee2a9c Merge pull request #245 from Learnware-LAMDA/add_count_queue_and_search
+4ab2759d5ae7070ded6b911c3ea0335a40958b39 Merge pull request #242 from Learnware-LAMDA/perf(frontend)/agreement_url
+eaf424948ff514aebcbb8022e2f269650a313c3a fix(frontend): code typo
+65cd78ca3d67cdca97a3c921bad179ec6072d728 fix(frontend): code typo
+b39a3fd2b707268e0409155af87976cb0e39114b perf(frontend): polish code fragment
+6c2930cb50eab74d1496f7f8c0de448ee4d1be75 Merge pull request #246 from Learnware-LAMDA/feat(docs)/search
+bcb71994ed4e2727f13ef337c1f70227add7216e feat(docs): change minisearch to algolia search
+c55f115ae7972e7f1c987ff255f37bacc318c426 feat(frontend): add search count in summary page
+e552bb3b987dd246d13d2a7114dbb009eb8d2973 feat(backend): add search count in admin summary
+c1b57ea4d550a2ca0e9fdb004ce5710ffa79a1a1 feat(frontend): add count queued in summary page
+473ed1ffda868063cbafbe158ee001355998e36e feat(backend): add count queued learnware in admin summary
+667a7507f9ef38ff3c214a63b53e4e2d0d292928 feat(frontend): add language type
+65a4c75c114e1f20208293554bbefef4dbb8f504 fix(frontend): heterosearch url error
+063edea458d57d48fb1c7883e3ca5b47dec3a818 perf(frontend): docs url in locale
+2d9214a529a0369956db7e09e31b8aa97175704a refactor(frontend): reorganization
+1895c7d3d352cd64257cba51fdf63798e6961ef6 refactor(frontend): reorganize codefragments
+bb5e1e595f9bfa5da22aea02ac7e4e95f268f446 Merge pull request #240 from Learnware-LAMDA/perf(frontend)/reform_homepage
+9eb96160d0eb10f3c59c3a4f84320a5e651ccc02 feat(backend): add file hash check
+ff0c8aa840ce1faa3ee9965ab0e9f11ddfcf2910 Merge pull request #241 from Learnware-LAMDA/perf(docs)/search
+a185399cf59112b395d611d15c563369c53731c1 perf(docs): polish to fit with learnware package
+b664208fc1bb582bea0327d7b4d8baa5e749c9d3 perf(frontend): optimize homepage style
+682f193951a92ff6058b1c7562e92a1c87d6a83c perf(frontend): fix typo in code
+3ab57c1c907c2cfdf01f3be9984583a417c2fc3e Merge pull request #235 from Learnware-LAMDA/feat(docs)/user_policy
+f834386308a9bf881a75926561b96daabb05a754 perf(docs): modify details
+0175726b76caeb8ffd40dc97060d622fecb866f1 Merge pull request #238 from Learnware-LAMDA/update_swords_search
+b89c34edc4f971121ed9d9c96c7d413dfdc0e598 Merge pull request #239 from Learnware-LAMDA/feat(frontend)/router_history_mode
+d99961bf2507ce9e5c7c242d47fc4a3cd9760ae5 fix(frontend): remove language icon in admin
+01cb293c396a86b1cf73305996552dbb2beab5ba fix(backend): update sensitive words search
+3b71b9c6fb4fd2e685ff73dfeaa06db33d4ca863 feat(frontend): change route to history mode
+62c80811fed3c3d53cf7bef2799d2a9b8a205dd3 perf(docs): modify details
+3db44e219d9508b03199fe7e613ac4992bfbfa36 Merge pull request #234 from Learnware-LAMDA/add_datasets
+1398b4b400f6b7827f9793af205ee7ed55ddb3ed Merge pull request #237 from Learnware-LAMDA/perf(frontend)/check_login_status
+94082a8b394a72f2630a2d9922a1e4b06812b878 Merge pull request #233 from Learnware-LAMDA/perf(frontend)/reform_homepage
+1c59ca9214f1e965eaa33f10e69e638d819a857c Merge pull request #236 from Learnware-LAMDA/perf(frontend)/style_opt
+3e0fe4908d6c2ed7fce9ba775830ca4e488249c5 feat(frontend): check login status before routing
+ea2c98142c6aae8295f6e11590bfe8c2e0296552 feat(docs): add Privacy Policy(zh-CN version)
+ad5475f878d40efbded1edc7c96e87b127c2deb3 feat(docs): add User Agreement(zh-CN version)
+9653b747365f1cbc68814f2d507b73d7c5b3020f feat(docs): add Privacy Policy(en version)
+80e09cb620e1d91a366bc2e7f9184613e4f22709 feat(docs): add User Agreement(en version)
+28a287546503a7f8c0eedb75fd295d7893a893fb perf(frontend): add border
+6c15ebf6df7c2bbcb13406c20f20d8befc4b7e1f perf(frontend): slow down feature animation
+9325872c3bf022029d0fc77f571a1fbe3da6b7a7 feat(docs): init user_agreement and privacy_policy
+f85aae6a89651c8cb04c539a89e7cc5fb7450615 fix(frontend): reform routerlink without children
+168b5ecaf36729faf4269d46e79c6552d25681bf fix(frontend): fix type errors
+d81a2cc0166218905af1cc00899d50a10fab48d1 chore(frontend): reinstall
+9c591cee217b25d8b8670c3d3af9cb881f7e1861 chore(backend): black format
+d09972ac8eecb5cecf259d6c53ab65086a975034 feat(backend): add datasets
+c439f77eb07a5245905eae9f50d9f45a6da9c73a Merge pull request #226 from Learnware-LAMDA/sensitive_words
+a06fa53c0b16763f5832275e913e70ba5ae06e44 feat(backend): add sensitive words check
+f5b47b088e1116047d926f7cf20421bedc5ec935 chore(frontend): Merge branch 'main' into perf(frontend)/reform_homepage
+f7d8f0425763d9743a879b9e5426912549cc9352 perf(frontend): responsive adjustment
+acd9d5be788ab3ff8c8f197ec78d7c5ebfb964ca feat(frontend): remove specification island
+6b19fddf9742d10fd6ce965ff04fc55f29e5d6b3 feat(frontend): add opensource feature
+e823c7aa548ad339ea3835f363681a323b11d25b perf(frontend): polish example code
+5cd2c735f57c597ea01a1307df183cb7c9051f6d chore(frontend): reinstall packages
+0ebcf49439d2e6184152177ba88c7dc8c92f15e3 perf(frontend): simplify ipython header
+2cd6109e2aedd525686a30b9fe5ee0b8c974afcd perf(frontend): polish example title
+cb5373031498f617dda895a7ec87789b7080638a chore(frontend): regenerate pnpm-lock
+af510e80d1b2259692bce9d64e5a735cca0dbf9e feat(frontend): translate example tab title
+82f310d540c7f244fcaf3ee9f182e6e8e5cf4cc0 perf(frontend): show tabbar only when more than 2 tabs
+cec1089b0d8bba2d77a6716239f75bd0f927fd39 perf(frontend): responsive adjustment for system feature
+cb77249bc324b2b3ed3417298a348e70775f7c47 feat(frontend): add main function
+829532ff955983c33e258fa6199ddebc39a350ff perf(frontend): polish introduction text
+fe13f28fe4e7930dc5fc2f58302a7f0c5ebc74e2 Merge pull request #231 from Learnware-LAMDA/protocol
+c67235ca27369a93ce29713f5c3312ba521b41d4 perf(frontend): footer button align center
+c7a1bcb3b2d9ec57f2aafa35987ae5eb9425d3a7 refactor(frontend): lint
+279699cb8daaa988b8a465bf6abbf06eafd8a004 Merge pull request #228 from Learnware-LAMDA/doc_update
+ebbd32275b0ad01daecc15972e83c7a03b37dddc Merge pull request #232 from Learnware-LAMDA/feat(frontend)/markdown_xss_defense
+a9bde28987d08909ad86d5f6dff75306eeffa2a5 feat(frontend): block markdown image
+22f04c94b370fd5c366a87ee128d7202d4d09bf8 perf(frontend): purify markdown
+ffeb55a8391570325e6d8f6bd688cfe2d1c3fae8 chore(frontend): ignore vue/no-v-html
+48eb56eb31074d31dd3286a726ca3df3053d97db feat(frontend): system feature animation
+cf4087a2b5324c06df45e596d3e98ddafffa424d feat(frontend): add user agreemnt in register and footer
+83b0957ee99ce659ef9780f1afc27e0f68063632 Merge pull request #229 from Learnware-LAMDA/hotfix(frontend)/edit_not_redirect
+7a78a8e08fc5922a87113e632fba6fe7e6de7139 Merge pull request #230 from Learnware-LAMDA/hotfix(frontend)/typo
+60dab2252dd420ba710558716ba32998d4578e1a fix(frontend): typo
+d584898e53bfaeef60ca750035fd14e515106604 fix(frontend): not redirect after update
+33956e20bfcdd0ca3d83415e652d5d71f410a279 perf(frontend): translation
+b317458297610faac66231326af2fcba9396608a perf(frontend): reponsive adjustment
+4073147f9ffed60f1ee1ea8517bc17bd8ea18a8c fix(frontend): typo
+f1b94fc6d565823699488dd4fa074996fd799a17 perf(frontend): optmize switch experience
+6465d8e47113305c7ba63561f26549cead741df8 doc(backend): update get semantic spec method in doc
+74be6100068daf786b6e3e3e56f57735a692205d perf(frontend): exchange terminal browser direction
+30ffd6c0738bb23b1acebf0f5f8ebe675b5f9f40 feat(frontend): add reuse code animation
+de6409f676a59f9d9a0acb2427bd8e209352aeab feat(frontend): add code animation
+2f2ff8b1fd0962aac8617044d7787d3864dd3027 feat(frontend): optimize banner style
+6caadc0af3f48f4c900bd752039eab0e2a12b14d feat(backend): add protocol link
+9757172338c35b9704014d872bc11237196497e6 Merge pull request #227 from Learnware-LAMDA/hotfix_token_expire_time
+48f85327ba4ec9cc41751c071341c74ff037118e fix(backend): change token expiration to 3 days
+c54ac8acd427ce36b0f28aeafe28b2e7f1d58245 perf(frontend): adjust logo margin
+ee9932820bb614b482822e3617ed0606ba91b3c8 feat(frontend): componentize browser
+3b80c928c28941d83ea6584f12f7442828dd3fe5 fix(frontend): user-requirement unexpected relative
+173fc2c6a90d7bdc160be178f767ecdc079f02b5 perf(frontend): absolute scroll length for scroll animation
+c59ff2009ebad70b8e11dd6fc5951ede5de8a622 Merge pull request #225 from Learnware-LAMDA/perf(frontend)/optimization
+cba446a46eff4c06372a0303b08af5a2bd0cf675 chore(frontend): remove hightlight.js
+cfc283c691ace3803885a5aa56996549e15de6ea fix(frontend): icp link black text
+3252b26c9c000aa0bb5a4a6901d120403e62aa43 perf(frontend): stepper title not bold
+36ea79f2e8c001a7e61a095b4bfe0603beeba509 perf(frontend): seperate scroll of markdown input and preview
+c4f86fb66aade58bd368ae9234075de3581f5260 feat(frontend): parse markdown text
+d5b839d1c2772b4002d6ef2fe3e773cb7e126a2d feat(frontend): description default value
+815e2da9eea780b64a7c50e472ddfac336e4e3a9 perf(frontend): :global -> :deep
+cbf8f096c326a4a725e693629b1d44dd6d59342d feat(frontend): preview markdown in submit
+b563c3879f7a28cfd83a29f5faa35ac22e925157 feat(frontend): detail page markdown support
+588e9c71edc89b51e76b1f2b82718adfa6834738 perf(frontend): remove preflight in tailwindcss
+2c75dd506c87dd44d8e3669eb795378cdaf03254 perf(frontend): reuse tailwindconfig in main
+c77373de110925670e15dad8a7f7de98ef3cbb02 perf(frontend): change name and description length restriction
+2a97468bebe5478f07a4ab2e623fad0031e5f9b2 perf(frontend): import vueitfy by vite-plugin-vuetify
+5322251181677a5bed1242989f74633658e9a54f perf(frontend): admin reuse main style.scss
+8c72aee7300b5b58e7db9ab3906c2c0aee811421 feat(frontend): allow reset all requirement
+55e0f5e1b1600e19a3768ceb2b6981b7c2a7e910 refactor(frontend): multi select button writablecomputed
+f12c3419f02ed14cbc15d3da43b4562bd6cf64b5 perf(frontend): adjust scroll bar width
+2978c2fbbb185a31289847f6cf3b149bd409b3eb Merge pull request #224 from Learnware-LAMDA/perf(docs)/update_version
+bcd1bc9f4ac5a39e23b2ac3a58c13c4b374d7ac5 perf(docs): update learnware package version
+364084d459cf60b93b5281b53c2c7576b4e1d411 refactor(frontend): user-requirement modelValue
+6bb7d23108bcf51f014bc203c4f61aafde237876 Merge pull request #222 from Learnware-LAMDA/hotfix(frontend)/bugfix
+19e70b99d416ce1bca1b7aecb6022cb025934dd8 Merge pull request #223 from Learnware-LAMDA/perf(frontend)/optimization
+98e943d44bda80d0bfd3b9a3a2467bd3f44f5265 fix(frontend): remove console.log
+3ecadd0f005c9bbaeac0aed99532b366d71010fa fix(frontend): register length restriction
+fe79b6145275708a36e3bae72a4f5cf9ca26ed5c perf(frontend): remove language icons
+3f4669d12bf120fa041b290ed3fa8e9c8bea7e0c perf(frontend): hide language word in navbar
+a028d04d70133dcf05067138d6ecfcf7f57f679e perf(frontend): earch icon -> translate
+0db1f207e8d16ea9d2e8ec0ab482d89b8613ee4e perf(frontend): earth icon -> translate
+cf07468d877ba654cbb260844fdc306a7ce32474 perf(frontend): normalize data type upper-case
+206530f598bd175e46d62b525b907f4a3ba9461a fix(frontend): add max length restriction
+22a773b168a06666b34b3d363c698084395f7b37 fix(frontend): isverified initial state
+0dbcd56ecef76475076c3263d4d2136115f45632 fix(frontend): vue-i18n treeshaking
+a596070d2b2287c0fec720823bd0afd9677446f6 fix(frontend): error assigning computed
+78f0438a1fc503655906b1e4feceabf724267971 fix(frontend): keepalive includes error
+159b841ce20852171e34eb29e8a3fc38ed91f3ef perf(frontend): load verified status on activation
+5116ceb60ad7dc1ef4d83ffce8efd2619b9af6ad perf(frontend): optimize icon btn style
+7e239993003d0788bccfc30b9623ff907b590e57 perf(frontend): change submit page icon
+6179df960c8f0883f15b0a2c8dc4075b0224a2c1 perf(frontend): add username developer
+e473f616843b309c6b121e7c04c241fd6b0d8630 fix(frontend): learnware name overflow
+45c1a2dd020d9de7f411fdcedb8e986f3ba6315b Merge pull request #220 from Learnware-LAMDA/hotfix(frontend)/bugfix
+150b09f5559ea4a4614f044a12de9b0a49d4e176 Merge pull request #221 from Learnware-LAMDA/perf(docs)/dev_title
+02e4def728ab11a1a02c52bf7c78dcb3a266a7f1 perf(docs): modify the title of dev section
+5d1da009a82a8537d7af2120a4b9c68d465949c8 fix(frontend): client token not loaded after mount
+c1354ad94f3473f2a0b260edaf9274170f305112 Merge pull request #219 from Learnware-LAMDA/perf(docs)/learnware_version
+ca6c2d76bda497cf6084e722076d797e09030783 perf(docs): change learnware package version
+01823145fa8e98dc358e43566b94b506a066642b Merge pull request #218 from Learnware-LAMDA/fix(backend)/license_check
+eb1faacd949bc07a0efa0abce792f8092f1acc5e Merge pull request #217 from Learnware-LAMDA/feat(frontend)/navigate_after_submit
+8644b2fe18c923ed905b507babe7b115187b40d7 feat(frontend): navigate to detail page after submitting
+54dd8aaf446767a4bef583819bb2a0dedd2075a6 perf(frontend): change api url
+77e5ff35ec99cae5474321d2359aad32762b74d8 fix(backend): fit with engine
+8de3ed04c47088eac45db25aced8f406a1265316 Merge pull request #216 from Learnware-LAMDA/hotfix(frontend)/bugfix
+209974a65c2e86b1de0cab6c4a97440dcfb0d8ab fix(frontend): unexpected assigning value
+f3cedd9641c2214dc472a996ef81854d2afa2c8e Merge pull request #214 from Learnware-LAMDA/hotfix(frontend)/update_learnware_load_fail
+2c6cee77eb83d0bb355ae2603868805c0fcd664f Merge pull request #215 from Learnware-LAMDA/perf(frontend)/description_tips
+3c35ed9e2b55868417b0416e52e4871b1af36d52 perf(frontend): polish description output tips
+4c43758a80dd22252818d91b1e85026eeea8585f fix(frontend): output description empty check error
+863504a96418f0719d2f30c4fb58d6e78e1f935c fix(frontend): task description json error
+4e93628fe3391ba9a9caa354d1508807bcdee721 perf(frontend): seperate clf and reg output description
+044fa9961d80c500cfd3650b23bfb019872e11ec fix(frontend): keepaliveincludes initial value error
+a54fafca8ee04433105c33ac904eb67d262b2c81 Merge pull request #213 from Learnware-LAMDA/feat(frontend)/semantic_spec_license
+c6973587afd603dae3da80d01a741ee472530e50 Merge pull request #208 from Learnware-LAMDA/fix(frontend)/spec_island_style
+a491db66872a5137a784ce24229b29d52a2be4dd feat(frontend): reset status after submitting
+5851557bbb0d40a180f978f801c8cc8bd6de613f feat(frontend): finish license support
+8fc224edda3213650800c7e434bd77592fa95229 fix(frontend): load license when editing
+4252315813b8f67c21041357e3bcc3b9bbacefb8 Merge pull request #212 from Learnware-LAMDA/fix(docs)/fit_client_search
+41457ddeaa48e940db1798ffd6449d08e7768a2c fix(docs): modify details to fit client search
+4597f13a7cdce4646155c3f1532cfbba9b66867d Merge pull request #211 from Learnware-LAMDA/perf(backend)/search_result
+2fadcc8855b5d4695c29a518a7a3c43604ede8bf fix(frontend): license submit single
+6465dd87163daf3e5d774ac4188c96afcc8ad823 fix(frontend): license not active
+d5c53f30c206e791513788abd4cdeef817e90034 feat(frontend): add license in semantic specification
+19a2fb27841d7e5df39e749778bc9e14a3a92c04 fix(backend): fix test leanrware client
+4e79e92837d4cdf6db44d3382e6fb01edbed829d refactor(frontend): optimize reusability for grid btns
+e8fa0e90961f601ab244f8e0be043ba1b89dd9e8 Merge branch 'main' of https://github.com/Learnware-LAMDA/Beiming-System into search_result
+a83255b2eede4e0180c6e0174adac67c688a11d3 fix(backend): fix search results
+17b1bc3d918cc1b13a987a8bec1e36b6ecb9662d perf(backend): return search result when search learnware
+3630c35d72700d1d3199da6e3fdeaba824dcf385 Merge pull request #210 from Learnware-LAMDA/perf(docs)/prepare_details
+7bdf09787f4d0282a5624846c2aa07954a951824 perf(docs): use create_semantic_specification to get semantic_spec
+f16f574a3a385e74171acd30335a13614e4ad780 fix(docs): fix details in learnware upload
+d30d938e9ad2d2fef940a793099d071f8dcde895 perf(docs): modify details about output_shape for classfication tasks
+ccd59b61bec25fc3d5c3001fa6d54d052771eb67 Merge pull request #209 from Learnware-LAMDA/perf(docs)/prepare_details
+b9256f6e7da83d94f1cc2403e00cabb334fad5c7 perf(docs): add details in learnware preparation
+86a74a6dcca73eb526c11da03ac1d701151e0dee fix(frontend): error z-index classname
+dad8c1ed9a1543240fd4fd5d94c4f6ecde9d2a3c Merge pull request #206 from Learnware-LAMDA/download_token
+157922bc4d1b05e3b5f8650e2ecedd9533d01858 perf(backend): change multi download filename
+f0b3675a53b3ce1a95e09b5d4970e63de583fc46 Merge pull request #207 from Learnware-LAMDA/perf(docs)/prepare
+1e092a2ac738e976f3f66d1e894c418ce0116f63 perf(docs): modify details about preparing learnwares
+359afbd0f71989748e21e2c06ff4b0d11290039b feat(frontend): get download token before download learnware
+81b37f856375a3080d9e3385c71fbecb9a6c62b5 Merge pull request #205 from Learnware-LAMDA/fix(docs)/fix_bugs
+c9495299a1a0bd9b0ab46b62294f06528a61648d fix(docs): add important notes
+282e637db3fbaaec083ee2bcd117bc1165193cf3 feat(backend): add temporary token when download learnware
+4c81be173a62eb5655dc6f7f01bcd74c4a9bafc9 Merge pull request #204 from Learnware-LAMDA/hotfix(frontend)/bugfix
+43902be547b78668c7027a9aa703df01d0bd523b fix(frontend): driver css missing in admin
+a9231ba5ed5aaeb4d90df55f028aacdb8a9e8395 fix(frontend): change prepare link
+a79996fd71118cd83832db2064e08b25b84442f1 perf(frontend): reuse dayjs in main to admin
+be90c0630c7c784d5ac5afcd01c7326186416dcc fix(frontend): fix last modify for learnwaredetail
+46aa12540a1fd7d3db5b31f3ac81c832a7c72a29 fix(frontend): specify utc timezone
+d998e150f5f31088bc7a64a78e0abe69d17be4ac fix(frontend): fix specification island style
+178430ef9bf74555d109b56ff633b42b37a0a1ca Merge pull request #202 from Learnware-LAMDA/hotfix(frontend)/check_password_equal
+adc6f2fe7804e9017d07cb2b62c26c028949f5ba fix(frontend): check form validation for pressing enter
+f42fbdd32b5e97326beff4a99ef80dd4e725c133 Merge pull request #201 from Learnware-LAMDA/perf(frontend)/enhance_description
+2b234cd740998dc23747662639a4ef2f965db97f perf(frontend): modify descriptions
+fcf67569839e2e984c78627a6291041b4883c38b Merge pull request #200 from Learnware-LAMDA/chore(docs)/change_version
+bf7321b8a3fe1051b8e6f801ab8b9af4a730863c chore(docs): change learnware package version
+f51862724d712d0b683e402497ab0b7d97c00ad9 Merge pull request #199 from Learnware-LAMDA/fix(backend)/download_filename
+8be8f6296a97d3e54d05db3628b5e2a4c7cb3a0a fix(backend): change multiple download zip filename
+97417990744671e2d73f446fe5485b60a37da115 Merge pull request #197 from Learnware-LAMDA/perf(docs)/modify_deploy
+d325a69276e2f0fe8b4ef02cf096b06c41692daa perf(docs): polish details in learnware deploy
+c7c72e1c2c2a1f808de80dd086329fc8c0f07cc9 Merge pull request #190 from Learnware-LAMDA/auth_protect
+83fdf799bec05fd4d7d6e9a350fcfbd41cb1ba1c Merge pull request #198 from Learnware-LAMDA/perf(frontend)/deploy_tips
+404ae6b22e7c9082a6830e5e5c663fc0b800515d fix(frontend): space after click here
+ac298a683b63759b9d601dc60a509fa0f37f45fb fix(frontend): remind hetero show unexpectedly
+b1596299117e72868bcae8172589bd0418a2675a perf(frontend): always show deploy tips
+8270e24a0f72dc49e1397a9ac6e4bdf436581e77 fix(backend): temporarily comment on some permission-related codes
+ff5e9eccf5fa9fe445358db9a65db8773805fab6 perf(docs): modify deploy
+452eae6d68f1f22361e119694367a8b986b15eb9 perf(docs): modify deploy
+18696c378d2725e5f688fc23cfb490dbcea0c04d Merge pull request #196 from Learnware-LAMDA/hotfix(frontend)/updated_time
+170c28d35c30d63a9dc2349319238ab1d9cf06bc fix(frontend): remove "utc" in date
+15ae1572314ebd47e0442a06e69c00cd1fbfbee4 Merge pull request #195 from Learnware-LAMDA/hotfix(frontend)/heter_dialog
+aac7abd0304e42608833c8412e54547bca1aad2f perf(frontend): description output title size
+f845a1a4013cb1ab7f28605ce15d65fe75c801ae fix(frontend): remove useless overflow
+fa76671fb66d7b27a113574b2f80d78d7b4b2e45 fix(frontend): optimize mobile view for description input
+a1c702e4912546abfd3124f1d3c7ee89c71c7ec2 Merge pull request #194 from Learnware-LAMDA/hotfix(frontend)/scenario_empty
+7aa85f03b0b65b0c3ddaa50e600b842ec1eec7e9 fix(frontend): fix scenario empty error msg
+b0e1357c3bad66a1c5adecd090afb1d2d2ea2614 Merge pull request #192 from Learnware-LAMDA/perf(frontend)/optimization
+dc71cc2ec35db5a66bc85373529fe2d501c7dda1 Merge pull request #193 from Learnware-LAMDA/feat(frontend)/download_multi
+5f4f3c0352621549a9cd731702c8e7c7a1632f6e feat(frontend): download multiple learnwares using default downloader
+881475f22fd1c492b363965ddaaa1ff9f72fc949 fix(backend): limit the length of ids in DownloadMultiLearnware
+07ab0d76d16c6d4dc93e01afde0aa0aa04efb05f perf(frontend): adjust mobile view for search page
+5c0e75bd92c874dba2e72043b9eda671bdfd7ca2 Merge pull request #191 from Learnware-LAMDA/perf(docs)/learnware_prepare
+97487a45522889fff84ebeaaf06683321f0f7000 perf(docs): add details in init.py and stat.json
+21e43e2628fbf3dbb2966fddc59589e693183245 perf(frontend): responsive layout for homepage
+57819f14ac224da06991c8a80f518c268c836f76 Merge pull request #189 from Learnware-LAMDA/restore_data
+4e7a53256aaf8b903295f648a6f9bcd51dd88d9f feat(backend): more protection for learnware update and download
+93beab24ad5691a6bc3f1f2421d1a7b2b54d583f Merge pull request #188 from Learnware-LAMDA/perf(docs)/install_env
+93eb0e453481a29da450d33ed5cd5e1f3dd9ef51 perf(docs): modify details in prepare learnware
+7fc96f56383a269bbdafd3794787b59b748d7109 perf(docs): specify the latest version
+adc9f1cea19e434abde1de89003b272203220065 Merge pull request #187 from Learnware-LAMDA/perf(docs)/modify_details
+39ef03056847392b4fa9c7bd82fbd76ecdcfe2b1 perf(docs): modify search (eng ver.)
+cd981ce284487b026364bbb2a24ce0f5cad87e16 perf(docs): modify details about hetero search
+925a3b2278b12be0513a9a50153133b89205a7bd perf(docs): modify search (chinese ver.)
+08134a2eff8c9ae37c93082cf34943ba2613450d Merge pull request #185 from Learnware-LAMDA/download_unverified
+8ef40e049b509f26a93dd32cbf7c9d69c3f6e263 Merge pull request #186 from Learnware-LAMDA/perf(docs)/polish
+408b82c6433152a2a6545f0d05c20f0dde9947d4 perf(docs): polish contact us
+fb1f28379807262f358e899ad5f62e13c422468f fix(backend): do not allow other user to download unverified learnware
+b20fa87d79e00818f547c2765f7d7bfb64bb8ced fix(frontend): developer locale key error
+f321638c213cc2c52710078210ddabc642a1b523 perf(frontend): reorganize examples
+046895110f349611f8fda93707d55e31fe4c6b9d Merge pull request #184 from Learnware-LAMDA/perf(frontend)/change_text
+26459802012b3cc8ffdbd03279b8bdcf5b4afcc3 perf(frontend): modify text in search examples
+3f6e102d457cb1b9aef2500c95681dc149af1af8 feat(backend): restore data from backup
+7a1f01a2e0946a9328b2160098d00f50325cf82e Merge pull request #183 from Learnware-LAMDA/perf(frontend)/optimization
+1aa6055a649f8d4be12aa8739e968aaad99dc9df Merge pull request #182 from Learnware-LAMDA/fix_init_db
+43a93eb08659615123394245e77c859f1fa9e029 perf(frontend): migrate to useobserver
+edde3925014b836df60c097289329a36033663a6 perf(frontend): remove puzzle animation
+f27288e940df4ebf3a0e20d5ccbd1c6600a795d9 Merge pull request #179 from Learnware-LAMDA/feat(backend)/hetero_search
+a6dc252e6c4fa5f9f48eb4f136fb3bf1b71b4aa6 fix(backend): fix bug in init db
+c41dcf15ede52f992f09819b74f8c826d2f1f743 Merge pull request #181 from Learnware-LAMDA/perf(frontend)/optimization
+f9f7005865c6dda02ad06522154692c0ee374a92 Merge pull request #180 from Learnware-LAMDA/perf(frontend)/hetero_search
+fb9d68d612cd060766124bade651c1fd04514a17 chore(frontend): Merge branch 'main' into perf(frontend)/hetero_search
+7bfb8c9123076bf56b4b3ccc1580e23052490eb4 Merge pull request #174 from Learnware-LAMDA/feat(frontend)/add_toy_example
+0f13a6b076cef89ecb80c508a7050f47d7766d90 fix(frontend): polish chinese
+609d4ba4d7d83b76d29f96daefb8e843704df253 fix(frontend): requirement height not aligned
+7c0c5f4459ae3ecaa2cbdca9b9ed3085c5240678 fix(frontend): ref translation -> computed
+c6c5b268ca040b4d958985ff3c0424e8e466f435 perf(frontend): polish some translations
+1b05ee764b975c21822c6b533513c79a7c8c050d perf(frontend): speed up scroll animation
+36133ffcbb4c89ef91a195db29392a4c8b31432f fix(frontend): translate home page animation
+983ec3c3cc7a9da523d11b09dbf9a09eada1530a perf(frontend): optimize style of recommend multi/single
+5455d70f459808443df3450d0fb75397035ecf9b perf(frontend): change learn heter link
+3583eed6754a437c0bbe216d3a1606cdcd60798e perf(frontend): start -> enable
+a7c3832629cb813d6a0eaa941b54fa4268d0860a fix(frontend): update rkmetype after checking file
+be8765e8441e3982699c1706896a951f1ae4a26c chore(frontend): remove console.log
+a32fb0a6dc1a5b66a72db5343abe7b260a51335e fix(frontend): fix type errors
+cffc58c27fbda6d854b0412849851246468f34ed perf(frontend): optimize hetero search logic
+d1dd995eebbf07da043085cb2d57f4893a20db4e feat(backend): return is_hetero in SearchLearnware
+76b4ca52f2ddae0f4527847c42832066aeb811ed fix(frontend): heter -> hetero
+e8f40c3af0d953e783c89a01abf0efd3a2ad316c Merge pull request #178 from Learnware-LAMDA/hotfix(frontend)/footer_link_key
+490be7ac70769ad397bb5e230d9fb44490cdd918 fix(frontend): footer link key error
+93a6658e2b6d48b2f2e9338fcfb4b1def05123fc Merge pull request #176 from Learnware-LAMDA/fix(docs)/fix_http
+e4d72b6864b5a06d1745bfaba575721d5e4ae7c6 fix(docs): change http to https
+f46ca0645268f267f2f3b4f5db851e6c4621edee Merge pull request #173 from Learnware-LAMDA/perf(docs)/frontmatter
+a6d3d706d13cfae9989dd5630f5b2d23ebb2ce8d Merge pull request #175 from Learnware-LAMDA/feat(docs)/en_version
+4c886dce717552b5d20a851251fbcfa83e8698fe perf(frontend): change feature icon colors
+0b110bced7e7e20fc0107b52804e8f790a5e6d41 feat(docs): add feature icons
+959386c0a3fb4e7c1da11021f2f32b0280f9ca3f perf(docs): change logo
+c208deeb7e31c90329eb4d9ccd12bc31c6c88118 perf(frontend): change semantic spec after rkme loaded
+2e23bb5fecf42b5f346040f9a24567e2fbc63b8d Merge pull request #172 from Learnware-LAMDA/perf(frontend)/move_heter_close
+7e83b7f888447ab539fd41419dd010fc483a1367 Merge pull request #171 from Learnware-LAMDA/feat(frontend)/add_toy_example
+6848f03c5b2b754fe5b75cd55a7badab16411bec Merge pull request #170 from Learnware-LAMDA/perf(frontend)/move_sklearn_first
+d836048345a712bc6a5793ef0bc65f3ab3462297 Merge pull request #168 from Learnware-LAMDA/chore(frontend)/change_url
+25259dc37533d31f0391749925c9a654c7bcb406 perf(frontend): optimize heter search btn
+87e0104d219959f1a4cf3ce4165942e8aaea98d4 fix(frontend): dialog hide unexpectedly
+deef6700686121faa428428a5dd271d663af1b9a feat(frontend): sync semantic spec when click example
+f9a56346db018d65ded4db9f1484515bd83cb1a6 perf(frontend): translate example control buttons
+0db9792cab2a88cb89d5946549756c12a120609d fix(frontend): not automatically moving next
+d658b2e26c848c382bcf3fa815d12d71975bc95b feat(frontend): tips for clicking homo table example
+ba7cd930cf798beec3c8787089dbc332c81ca9a9 perf(frontend): optimize the styles of example
+3abb16c10d9727cf201e4fc412d15c92bb1e944a fix(frontend): typo
+fea31f118f1be89961c76d437e050e7ed969eefd perf(frontend): move sklearn first
+c49a3f104a8b17af77be812b95bf6071ff0afa7d fix(frontend): typo
+aaa3e02447ad4c9f641bfee3107732ace9043434 fix(frontend): typo
+574783052c8f1c20af1f89a5745c81296dc320d2 perf(docs): add input/output dim in learnware upload
+dfd9da66b2b5136c7cd7ed7de6c0ac0d681744b9 Merge pull request #169 from Learnware-LAMDA/chore(docs)/change_url
+92fe084b2f079b665eca023a3100e15c90693c86 chore(docs): change frontend web url
+1e2b1669612967e5b88a51e897c02af65ade51f9 perf(docs): add input/output dim in learnware upload
+5e1e0ed7be924003f189ccc45dfdc993a7757bde feat(frontend): show examlpe tips 3 times
+d65543add66d30a88d7014ca90a13a0c50ecd123 chore(frontend): change some urls and texts
+ac349ff9bb8b1cee235d1e827a5bcb51f6453c83 fix(frontend): add endOfLine in settings
+f440b638c382a3530b11e339317a411ea58ce596 feat(frontend): add tips for examples
+711d8dcf9d25a30f93915be2b893b6b9e14474bf chore(frontend): install driver.js
+9eaafe6105e2178020759c431fa5e49713c5d116 perf(frontend): remove example tooltip
+4e176fc4aafa5bd60c2c53b02324488c9e7ec4af Merge pull request #167 from Learnware-LAMDA/fix(docs)/learnware_deploy
+4cf5efd9bcadbf33b82dc58d0141c20c641d40c1 fix(docs): remove 'normal' option in load
+0354907bf644ca64c4961c34075829e19912ae59 Merge pull request #166 from Learnware-LAMDA/feat(frontend)/add_toy_example
+085536457d96e67190b0a82a045ec8f3d03b1646 feat(frontend): show example dialog tooltip
+cf365f9e83925ce881960a89e642d87fb10037d2 Merge pull request #165 from Learnware-LAMDA/test(backend)/fit_learnware
+f6a8358062a1b1e09cd061755cfd0053ea8fce75 test(backend): modify details to fit with learnware
+18838b5d8b2d2219a9cd1adda64287d078a351af Merge pull request #164 from Learnware-LAMDA/feat(frontend)/search_required_login
+89e876061894e61944ad1eacaebf64f414c8fe77 Merge pull request #162 from Learnware-LAMDA/fix(frontend)/text_polish
+c5e86a2b75967699d712cb06f6e96b3effa1a7e1 Merge pull request #161 from Learnware-LAMDA/feat(frontend)/add_toy_example
+7dbc95d3ff07f849e2c9e68565d17ed8ae1fc3a1 feat(frontend): rewrite example description
+9ba2dc1af38111dd52ec712d2d9fc22137b6d8a0 feat(frontend): search requires logged in
+602e74d73d3882c051c927acd4b2a5a96b30d790 Merge pull request #163 from Learnware-LAMDA/perf(deploy)/template
+18f8db59954304bbde42c5ba46e1be1736a8ddca perf(deploy): polish learnware template
+dbd2a0c54c4df4154fda5e2d926089db8c7d2495 perf(frontend): change title to Beimingwu
+d97aa5ed2e8760d3f6e7dd2f72a8130dadaf1690 perf(frontend): json -> JSON
+188fb5d69882aff380b10cba67bb58c89a13c432 feat(frontend): add toy examples
+0a41aaa7666f231987b265b5851adca1b4d77998 fix(frontend): remove reg and clf task choosen required
+c71cb95d1131d9c3a2ebf87122acfdf8568e1d27 feat(frontend): proxy /static path
+af4693367ff1a72815570c7391ab7cc9afbf7555 chore(frontend): remove no-explicit-any rule
+a8e8cd8435bed68d6661520d52954a07185a672c fix(frontend): remove svg default width and height
+b5a435b76cd248169325950e818f82bf0d9dfe96 Merge pull request #160 from Learnware-LAMDA/perf(docs)/meta_data
+886067706483456a60004ec3905f61fc3b5aa9c4 feat(docs): change svg icon
+d46d72d074c14e6899289d580229a4301d17cc78 perf(frontend): change page title
+aaada5561b7848fc1908a45f71bc8096dbf61286 Merge pull request #159 from Learnware-LAMDA/fix(docs)/fix_index
+0591927d91b0d44c17b9718bc7cd57951ffcd516 fix(docs): fix descriptions in index
+b44864132c1ea5cebb73a274e71f0b7e7fe84fc7 feat(docs): add favicon
+f7b663969909bda87527bf5153c4504838dfc468 Merge pull request #158 from Learnware-LAMDA/hotfix(frontend)/download_learnware
+16117939cd1a10561ec5a92a33b6e782941dc449 fix(frontend): cannot download in mylearnware page
+2da302005e9c7853c609911170ede3c628fbfe88 Merge pull request #157 from Learnware-LAMDA/hotfix(frontend)/eslint_error
+b8f844b52c0311139d12ce063b998a70bbbe7ad3 fix(frontend): eslint fix
+ac69cb43b484380f3545ee85dd959d2a2d58806b Merge pull request #151 from Learnware-LAMDA/perf(frontend)/optimization
+a96e2ae8eefe952fd1a009040db9bbd4e93a9209 Merge branch 'main' into perf(frontend)/optimization
+1f98fd4998baf11f76f69ad3bbf3e2cd1834b324 Merge pull request #152 from Learnware-LAMDA/perf(frontend)/change_fig
+0b1746c9fdafec2d85b91fdc4c5a74d744cd169b Merge pull request #153 from Learnware-LAMDA/fix_delete_subpath
+ff5b098b3a75f5e934ea85dc728fe01c3e0b5140 Merge pull request #156 from Learnware-LAMDA/fix(deploy)/modify_template
+c595a9004cb7502f9b3d3ec876c636513137fe73 fix(deploy): modify specification class name
+f95deec66135fa9113ec5028a3540ee6d4d7e7d5 Merge pull request #155 from Learnware-LAMDA/fix(docs)/fix_structure
+a97f23aff75eecf3974a7a932577a906626efadf fix(docs): remove extra desciptions
+0ff87a3f1a4e818703b703ede2d688127f724fb2 Merge pull request #154 from Learnware-LAMDA/feat(docs)/en_version
+7eae14627435a4c7c1d77c9dd32ea704c654ba1a perf(docs): polish pages in docs
+814b27dd262d2b8ffe21a28248b28154cc98ced9 perf(frontend): debounce search learnware and user
+807c6c2cfc6eec38f2497b7d45cbaea4c8b0f452 perf(frontend): upgrade vue and vuetify
+31ad3259b5bec979aad12f010deef2ffd3fb572e perf(frontend): change two-stage figure
+23eac7dce2b91e467aad202db0f48f0b688c9076 fix(backend): only delete data folder, not cache folder in cleanup
+25d00ee65a59363de294744ffc2f012ead016e6b perf(docs): change figure about learnware workflow
+dbe8f559af4b2c31c077870ee4f40a3dc1ba5ba7 fix(frontend): fix figures in home page
+a113f8665d176f7f3b0e69aa05cbec6345c3e011 fix(docs): bug fix
+fdcce57f0f0127baccd305e8dce35da3e57a5053 perf(frontend): change the figures in home page
+7b6f2a3a64c995182c3b5266e007a6efbf2e8786 Merge pull request #148 from Learnware-LAMDA/feat(docs)/en_version
+ef413e3c9e47373b26c969b2204cb28e3bd20a30 Merge pull request #150 from Learnware-LAMDA/feat(frontend)/heter_search
+a852d9cee7ee692d2d8f852fffb1842f396e7233 Merge branch 'main' into perf(frontend)/optimization
+7defdf58fb3aed4f996038c33d1d36fd6cc97726 feat(frontend): Confirm before delete token
+c6f39a9bff65f24bbad7f6a2baf68327b20ec4aa refactor(frontend): Refactor confirm dialog
+286a561c81b1dcd99e71dfd040acf9348f909dc8 feat(frontend): Support copy client token
+45e9bbb6eae536fa95ff50a01fba6937468b7d3c Merge pull request #144 from Learnware-LAMDA/perf(backend)/fit_hetero_market
+aa57bdb3543d91e7a591c630b0dff58bebb42eb9 perf(frontend): Optimize style of clienttoken page
+a0495646ffb8f95287900e70ed6bde3be54414f8 refactor(frontend): lint by eslint-plugin-prettier
+65b4667c22ef9feb3871075a76f3929683392a2f perf(docs): check all the pages
+0ef9fea65f10f4c429a84c7088b87f9779b77632 perf(docs): modify some descriptions
+e48daffdbc7eb48ca09a868e58f26c16b08086e7 feat(docs): add en version structure-guidelines
+33001fbabd7071f7e0f9ed15653ef08fea82802f chore(frontend): lint fix
+1d76cc83b9d880a31e740ad407f871c04ea3123a chore(frontend): Add vue3-recommended plugin
+7e4bb686690b5c38cd905bb8a85b2ce561e6b0db perf(frontend): Hide file size when empty
+5480f087f744603dec120fc81b528b49a554f320 feat(frontend): Show deploy tips
+e0e75d6afe6087324d48653b6f98868873baae50 perf(frontend): simplify confirm delete title
+b40900fdd608fd939d04fa6c7877981864f20b80 perf(docs): modify details in learnware upload
+b6054e76387f917ca8ec36cd932d53b272000f7e feat(docs): add structure and guidelines
+8afcb4d7e691ae2f4dc978b54abaa8cd522f98e8 Merge pull request #147 from Learnware-LAMDA/docs_spec
+904879acdd67cd369814049f3aace608408d4368 perf(docs): add commit format in guidelines
+091f2356ae7a8f51c8ad13f6795a9860707cd9f7 Merge pull request #149 from Learnware-LAMDA/hotfix(frontend)/email_error_dialog
+6e12aac57c59a0c143c0073387faec25541d3bfe feat(frontend): Support heterogeneous search
+d5ec285a84d1137163f7dd666d9e73d0fc5b35e3 perf(docs): add encoding format conversion for environment.yaml in learnware-upload/prepare.md
+8e3a6bee4f8b23ee5f4b10e234a868fd042b6aa5 fix(frontend): Email conflict to i18n
+8de6fc65e11a213ccf4bf47f95dcddd9e97ad0da feat(docs): add structure-and-guidelines
+58ffc1117e3d271a04866c884e76b4fcf0c07536 feat(frontend): console show error in register
+ef89cbbbb5016a9d75f0370927b25e29fe9b90ff feat(docs): add english version for all pages.
+224cb640d7474cef867eb7a89dad60afed6bd7f8 Merge pull request #146 from Learnware-LAMDA/hotfix(frontend)/email_error_dialog
+504877d85c5e55f21198d2c8cd3d7e0619ade6a5 fix(frontend): Email not allow dialog not show
+39d17cc6cc54935823e4ad2eda334923e75fbd09 [MNT] update README.md
+4befcaa11740a793bfec37bcba63fbed25f2db00 Merge pull request #145 from Learnware-LAMDA/refactor(frontend)/standardization
+22c12ad4f35b193a60f9bcbfe915d3b205590d00 feat(frontend): Show email not allow dialog
+aed299e5d6580d29263c0874b248b137b8d896cd feat(frontend): translate unknown error
+f619c69a1a4f275271673007cf9fc71e25b70547 feat(docs): initialize en version
+a0e2b55ad4ea807ea07bf56a0b049ab899532275 Merge pull request #140 from Learnware-LAMDA/feat(docs)/default_language_folder
+77492c6c5f1581c840e2673ca4ef2856a4973a86 Merge pull request #143 from Learnware-LAMDA/fix_docs_build
+8b41207678f61d357d760d3e49723cbff54bfbc3 fix(docs): add ignoreDeadLinks in config.ts
+af3f7ef928092b1522a4ae6788452499732b011a perf(backend): modify market id
+34d91070715774587b899c8e16a9d876a40f8988 Merge pull request #142 from Learnware-LAMDA/feat(docs)/dev_mainpage
+0bf3f443b3e3fd9bd2ac294dca443630fb5e98e3 feat(docs): add index information
+10f30a4ae304bffe30e82594d72d46fa731ce05c perf(docs): modify homepage features
+5b3cd07e5cb66fe95d749144922cbfa3a313b223 perf(docs): modify some descriptions
+c4d89086347db00c08842d104ba202f3d3207937 perf(docs): modify system features
+9d7d8d22c29128ad669baaaa727885024f621d9d perf(backend): fit with hetero market
+76278fef32156e91aad141782006442c86613a1d perf(docs): modify description details
+0787dfc0da396b7ebb0981b2410ba35977f949ba perf(docs): polish several pages in docs
+46fa05785c68770b7175eaf6ee2c54ecd5fc1f79 refactor(frontend): refactor view log button
+3a43c602a882ad9204a8d3bc7e94f09ef94f29dd refactor(frontend): run prettier
+0cc4a70a11786ecf948917c0d28347cc3a734b11 chore(frontend): Add prettier plugin tailwindcss
+a3d5ce604f9dc1a3909ff302ac3aea7075a6a0e9 Merge pull request #138 from Learnware-LAMDA/remove_internal_api
+03363d9a0a6cf798c2fc912b0205ea93bc7bca90 feat(frontend): translate reset password sent
+b10267c0f3b28b1de0a20b988dc5c44bb8d5eec5 refactor(frontend): Add success dialog for password reset
+87a6c36645c3978fad2fc517d13a702190fae171 refactor(frontend): refactor success dialog
+649bea798a6739fb18859b1b02db5dc3bd8b74c5 docs(*): modify system features
+5c979e32dd309e323aa5ff895e8e18558e207ea0 fix(backend): modify test file for auth, monitor and client
+92e44eceeb3f8ec9c55f22738bed143f65626168 style(docs): format code in upload
+a4af4ab11303c3266d0c0becc751a57af0e5b158 perf(docs): modify details in developer-guide
+a153432b814c92619d92208066a748771c43ed9b Merge pull request #141 from Learnware-LAMDA/feat(docs)update_deploypage
+a7285122afc4a6f0b6530cc7366aa158d30aa72f perf(docs): modify details in hetero learnware reuse
+e4555c6efb0624f7ab554235327febbb6b9dba83 perf(docs): modify doc details
+58a3cd768f33d7bdfb9793a9bd9af9e4457f48b6 perf(docs): modify architecture figure
+28947ba8096c2f575995edc08e293f380adc3373 fix(backend): use spawn start method in test engine
+e272665d854341539e8f518e99676f7edbe8d545 feat(docs): add deployment for heterogeneous learnwares
+bd4ab10101966e46ba65b5577c8deca4e3a939b6 fix(backend): add init engine and reids in test admin
+e8721f9f7ec955ce7ed7701776ebc7904c256b89 fix(backend): remove unused functions
+65d5384475aaed5b7af3e462532ed0d6456c741b Merge pull request #139 from Learnware-LAMDA/feat(frontend)/show_email_error
+06c7685d7f740cbf355e439b1a00b8a96d76e4cc feat(frontend): show email not allowed error
+1c1857118a36ad08eabd5d94189ae1883db286bf Merge pull request #135 from Learnware-LAMDA/feat(frontend)/reform_homepage
+c227e843a9c21b83d14fd38a1077b414ef25267b Merge branch 'main' into feat(frontend)/reform_homepage
+4190ea7d057b25591e8e363c428203291a426ecb Merge pull request #136 from Learnware-LAMDA/perf(frontend)/perf_text
+5ddf78298c8b7e6835ef01610cf7a6cdb283318e feat(backend): remove internal api
+af9531063c397f4e5b24d10ccf90388b7f0f16ae Merge pull request #137 from Learnware-LAMDA/refactor/change_email
+8b0bb1656084c45a4bd7dbecd6e8f43275d0da97 feat(docs): put english into a separate folder
+12f2838a39f20c3b350dc50c52eee3278ba715c3 refactor(*): change email address
+17e2c12867f6c9e7aff87be21b95db86ab27565d perf(frontend): change some descriptive text
+0c8284dc0e614b49d15df2e213afa5fecd835925 refactor(frontend): change title in the process image
+537c82cc15bd71d3c50c499cf802de12899a7632 perf(frontend): optimize scroll animation for mobile view
+7054ae75d4408b7f8b40d04ccae42f3d37e24a78 feat(docs): add three features
+2026a84589b7cc2bf1108619658c29d4a6734dcf feat(docs): add version info
+d7508d225be425184bfa095dddf9ef9af02af7fc feat(docs): add contact-us
+9c19aa0d67b94f17754c90156aebc03938c02e07 feat(docs): add common-questions
+00486149fa508c62c1cdfe0dc2e98170649d697c feat(docs): add quick-start.md
+b01ba3e5417d91fc48880045cf82d70431c7d26d feat(docs): add system-overview.md
+5f62248b4e3910290d116831eb028448ca433f96 Merge pull request #134 from Learnware-LAMDA/bxdd-patch-1
+7ba6e64e9c7abcf6280babab230f0aedecc1aad0 perf(docs): modify details in learnware deploy
+e4548e5599595bb3652be26c80af52a19d4995b7 Merge pull request #130 from Learnware-LAMDA/monitor_log
+7973cfa3f70598903dd751cad0d1591cdaccc9e8 docs(*): update deploy docs
+5fd2623875ccf97fa867c4a10a6d0b41d928e5c5 Merge pull request #131 from Learnware-LAMDA/fix_test_client
+800a5a6a38e5e53a1d903af86ecd878bcc7081d0 Merge pull request #133 from Learnware-LAMDA/add_workflow
+ddc49fed556e41e68fd22ef0741d2197457fb65c feat(backend): add workflow to deploy on jenkins
+0622ad775a8a04878672f25f518b187e785ce136 fix(frontend): add viewbox for logo svg
+66c09206aca3c4b0db5f7b3c2f949b387858a68a Merge pull request #132 from Learnware-LAMDA/email_pattern_check
+cc82377798d973573fe2630cd9ac5f7095a0b2e5 perf(frontend): demo video to svg
+22d3485f7598557b6fb23ad9205e72cf0ce8de90 fix(frontend): error translation for recommend single
+14dd0e6298faa8d74a446be9e52296236f32dc5d fix(frontend): user requirement auto width
+3f99cfe1631485c360187ec1fe8ecf1b7b39a737 feat(frontend): check learnwareid before show detail
+63f4cbd7070a6f508af09d78e5b28f5a8850d4af feat(frontend): check learnwareid before download and edit
+6d8767926ca13632a815d7e7ce226f5dcdef1069 feat(backend): add email pattern check when register
+a4ec165fa4be83ba672aa54aec3e38307235523a fix(backend): wait process end in test_learnware_client.py
+aa2f55fd78f864664120f8cb97f2866907fd0b29 fix(backend): add command output to verify result
+f71cb47844526161717a6716831af76e2fb22e0a Merge pull request #129 from Learnware-LAMDA/repack_unverified
+4b7b7b3c2f3f9a5e5bb630a9e101c32283718cb1 feat(backend): repack learnware zip file in monitor
+5ffe4eae11877c99cec5099f55acb2ba844c2c2b Merge pull request #126 from Learnware-LAMDA/optimize_qps
+475ed9a774156f3f5813c53f7126f0ef983e61e7 Merge pull request #127 from Learnware-LAMDA/refactor(frontned)/refactor_animation
+d68bf236587be56a8833d1ca635d47fba7669515 Merge pull request #128 from Learnware-LAMDA/feat(frontend)/required_scenario
+84df7215c8354308bc8f09415c85855596e4d2fe feat(frontend): scenario changed to required field
+6be60a98a3a606368085e95ebae5b9cba4873a98 feat(docs): restrcuture main pages
+3f919154fe107392ffa71bef85da0bb8c16ff904 Merge pull request #125 from Learnware-LAMDA/fix(backend)/order_user_list
+d1588016425b535b219fe2b2dc4232c8760c2a04 fix(backend): do not get last_modify in search process, get it when search ends
+6d24649b96faaae8dac88e9b565146103feb6caa fix(backend): add order in get_all_user_list
+1437f149103b70e8f958ab427f2ebe3c0d48e938 Merge pull request #124 from Learnware-LAMDA/chore(backend)/dev_add
+d5e9360fe0c04035cd062e812428f7d5b91f68c7 fix(backend): add try except in get_learnware_count_detail
+e50828cb4f1d398c7d713070c8e97e3cb95b65ac fix(frontend): svg out of box
+f5264b76fab752e5daac7be06017d75ccbd194a6 feat(frontend): rkme -> rkme specification
+e4becb54861e225d72266f9146bd0014626045a5 refactor(frontend): rename element refs
+a43b057c86cfc37654c6d080c59a3d645374743f refactor(frontend): ref element by list
+2a6b3350e320ef4f2d890f96e404dc3409f0ba6b Merge pull request #123 from Learnware-LAMDA/chore(backend)/dev_add
+86853a877855b128a5fda5f999b37a5b0a5c6ecb fix(backend): fix incompatibility bugs
+db5d31a28903060c88b44eb0e8a4644166e8e66d feat(backend): add specification type check in UpdateLearnwareApi
+5ab47478943cdc002d02a7c455b29d27dbd435d5 feat(backend): add specification type check
+6289d6465cf905ca8d410f4354ee45c68662fdee fix(backend): remove special judge in count_detail
+07ded3586a6c1122a9cc445fc468d06429a17812 Merge pull request #120 from Learnware-LAMDA/feat(frontend)/animation_rkme
+787b4125f8ebcd0eae536f440c14984574bbb5eb Merge pull request #122 from Learnware-LAMDA/fix_learnware_is_none
+95d82564eb0f9fddb15231f6bfcab681d68abd12 fix(backend): ignore none learnwares which is unverified
+e8f3da71a19f13252fd81b45c236fc7bb1e801f3 Merge pull request #121 from Learnware-LAMDA/hotfix(frontend)/bugfix
+d994c993588f27abae0a4423ff3ad4b53b0a1ada fix(frontend): translate queue status
+0d47c8063770c1e891b4fbc373214f79600ef386 feat(frontend): add rkme text animation
+b37ed91580b538a7f33588c111eec776085f385d Merge pull request #119 from Learnware-LAMDA/hotfix(frontend)/bugfix
+1f62a7d575888cd22c8441b832d0caa6354e4a4d fix(frontend): untranslated status
+f7fbf45ce359242d02b71831a96e21e8cf553a20 Merge pull request #118 from Learnware-LAMDA/hotfix(frontend)/bugfix
+a88d556fccb9cde8ff7b3194539f35ae8f584039 fix(frontend): space between featureextraction
+74a7155c2dd6b598ca00b13c3c4d449ac6e78154 Merge pull request #117 from Learnware-LAMDA/hotfix(frontend)/bugfix
+07c390522ddaa267731ce23957226e65d78c67b8 fix(frontend): check editable fail when not logged in
+8cc241c792c930a2a280e4191a6a3872d6dd0846 Merge pull request #113 from Learnware-LAMDA/feat(frontend)/new_docs_link
+4de64c2fc0a2177420a14b5b7bbba36cc8e5b89d Merge pull request #115 from Learnware-LAMDA/feat(frontend)/check_editable
+78b07be600895040df064b511a0572a6e6192716 Merge pull request #116 from Learnware-LAMDA/hotfix(frontend)/bugfix
+4f6076c9da359817e8b55398251ad4396667ad70 fix(frontend): puzzle not aligned
+7ed1c2d31ebc1afa9b404975fe7e66c3e85baaec Merge pull request #114 from Learnware-LAMDA/feat(backend)/dev_profile
+84b6c6a53316b8829029274f744914d428c4a3e6 feat(frontend): check editable in detail page
+e84fa959b9c0003ce94a85aafd01d6becf025818 feat(backend): return user_id in ProfileApi
+4067f4faa2734eb61aabfaed9b384d4ce3981b35 feat(frontend): change docs link
+cf350645b57da02b2058e95bc904d4b3138a6e11 Merge pull request #112 from Learnware-LAMDA/feat(frontend)/delete_types
+4cc7a3cd7bc03f315d96b33e6c085134e12a2a9c feat(frontend): remove description input for feature extraction
+af4ed0e964479c9fb86f3285b7421685369df1b5 feat(frontend): remove audio, video, clustering, ranking
+b9337edc71aabce87d7c2417c6fd238c3168e5f9 Merge pull request #111 from Learnware-LAMDA/feat(frontend)/reform_homepage
+22f7122c381187a401c7866d85c3c5e6f0b13f38 Merge pull request #110 from Learnware-LAMDA/more_backend_doc
+75af62a946f37399d1448ee583468a66b5948815 feat(docs): more document for backend
+550c233e8c9f9ffda09e5ff4574b86755ff3740e Merge pull request #108 from Learnware-LAMDA/add_user_id
+6aa2ada2817cd4cfe546229696a95cbbdcfdef4e perf(frontend): margin of bigtitle
+7cf13c38aaed5661f1e3d9f9a9ecaa748f215ddd fix(frontend): title size of homepage
+e5c8109b463952f5f8de92a45e90cafc248871e5 feat(frontend): add specification island animation
+17be04a1ea1cc59d659f36021d54e5f61391eb66 feat(frontend): introduction of beiming
+eda2b225d2023555a7b1da7b4aa611562b1eba80 perf(frontend): adjust long screen for whatis animation
+027f7f7637e1f97156399dd0c9f999bafb4ff6fb fix(frontend): element ref fail
+2fce294210cc50212a42e3b98423e78344ed5dc6 feat(frontend): what is learnware animation
+aa0f07ad3a28671a2bb280d288aad943029dc7f8 Merge pull request #109 from Learnware-LAMDA/feat(docs)/dev_search
+c62eb869765aafbba1f4621bdf33316a3e4993d9 perf(docs): modify some details
+999cf16ea3bdd6898a1dd71580f4866ab0827d9a fix(backend): add user_id in learnware info
+3c53e1684d6a15d78c781b9bedcf71d7fabee529 Merge pull request #107 from Learnware-LAMDA/add_redis_pubsub
+87540410c4451485e0ce35d16736aecb2cb61718 feat(docs): add search pages
+fbcb63d95a7a8574e87af7cafe8e1330b7e70daf chore(frontend): install animejs
+c3fb00ea69f070efaa92795ae0df5ab7f9b01651 feat(backend): add redis pubsub for leanware update and delete
+427256391b618b026e8305fff61605f1ceb7c712 chore(docs): changed with npm registry
+ade8bb97009c6839d42fea7340d11f35c5cbfe9b style(docs): add title for search pages
+50b18c8113e0bcb5fb676f2a932799c5be9dbdbd perf(frontend): change video timing function
+e13a83481aef11d4cfb7b2b1c6b2ab22c98d6605 perf(frontend): optimize video frame rate
+980c9c648c421d3d07be270bfab173d55209eded perf(frontend): optimize video performance in scroll animation
+08487627cb7c4e3bd89aef4e65688ff70de62d85 feat(frontend): add search demo animation
+59f064b75cd86e3f8d42945859be54a7ecd18556 feat(frontend): addscroll animate component
+d261a3c85cb3ba38a23afba20fcb12a58972079a Merge pull request #106 from Learnware-LAMDA/perf(frontend)/style_opt
+a9364b0202892f1672ffede8b59b90b8cd2c061d perf(frontend): optimize all user search style
+1a60147a61a8b36054eea1d7008c79d9c98f7cac Merge pull request #105 from Learnware-LAMDA/hotfix(frontend)/bugfix
+fcc7f352df7b8bff82d02325e4a0faa8e445e423 fix(frontend): clear file and show errormessage fail
+471824c63abbc388840b03ea37f7202e0e05184b Merge pull request #104 from Learnware-LAMDA/feat(frontend)/drag_and_drop
+f75657e32d861f33edc573e3b56a28f195c6c030 perf(frontend): optimze fileupload style
+09356c33ebbae2f950767a1cfe3087b2821740fe Merge pull request #103 from Learnware-LAMDA/feat(frontend)/drag_and_drop
+eaa3e1f86b2443584d002ee83b83d819b4e9ef1a perf(frontend): optimize start heter button style
+4bcca37d0d938b4745c50b80c9f364c5699cef47 perf(frontend): optimize drag style
+271f14770b73c76c35534f84d0f26c93a8038092 perf(frontend): optimize fileupload drag style
+2fe9a8c6fb0329be25dd36258155546734522858 feat(frontend): allow drag json for descriptioninput
+344a401cc37cf278c436835028c8ad8c7e322849 Merge pull request #97 from Learnware-LAMDA/feat(backend)/search_learnware_id
+1fa79c69a65b415eecb7ff1a415b84413b2c9600 Merge pull request #100 from Learnware-LAMDA/doc_k8s
+bc000772c983edcf48f3071bc6dd139e64919b46 Merge pull request #101 from Learnware-LAMDA/feat(frontend)/hetersearch
+263a8c92e96d2a360f23d9aa4df7e07095b3a1b8 Merge pull request #102 from Learnware-LAMDA/perf(frontend)/style_opt
+9dc639370a6bc4aafa5c4106c97c31ed3eeed649 perf(frontend): optimize scroll style of mylearnware
+48ddd5aa8d518b067d5eb3f9e383bcab61bfdc2a perf(frontend): optimize scrollbar style
+dc348c288794a1f10520eb3f436e5c5e4cf3a6e6 perf(frontend): optimize scrollbar visibility
+6ae02173aaa702949da91089f7bf1080f96826d4 feat(frontend): optimize heter search interaction
+89be94c8ad96ff5b98f32a4cc5e60a5ceec6a01b refactor(frontend): reorganize saveContentToFile
+321b152e8a9920f4b59adf6287cf9952ab96155b feat(frontend): allow assign download type
+b82b236439d555db4e3271fc35d2a79a2bdd8e2c refactor(frontend): v-model:value to v-model
+f1f93ce88ec7ea49eab01c69f2ce03a011803632 feat(docs): add k8s doc
+94d057e5cc84d3a3dd1180304714a16b23039570 feat(frontend): heterogeneousMode -> isHeterogeneous
+bf94d29e91615eb8d76d5f12e63176f139f5de20 Merge pull request #99 from Learnware-LAMDA/feat(frontend)/search_learnware_id
+d6a2e5ac3b79f5e93ad5815a15cb5ef00ed17588 feat(frontend): allow search learnware by id
+46d5e6afbd8a8d3fab747e6953fa58ee680fb58e Merge pull request #98 from Learnware-LAMDA/hotfix(frontend)/bugfix
+a532fa184fd4fe4b6667a7dafc87376cc37bfbac fix(frontend): change query when switching verified
+093bb4ecb6c5ef3eb80c8f66d257f4ae0ec1abe3 test(backend): add test_search_learnware_use_id
+702e83ed11d6f6c76fe580c82de3653c2e5bffd6 feat(backend): support learnware id search
+fbefa9aef84d0f13c87706f66d9bab87640e5cb9 Merge pull request #88 from Learnware-LAMDA/refactor(backend)/refactor_market
+3eb6b9936abf5faf8f556ce081f02669dbf2c87a Merge pull request #96 from Learnware-LAMDA/hotfix(frontend)/bugfix
+bef91a7efa0e064d31dfd0ec4e522adcc78929bf fix(frontend): space after data/task type in detailpage
+f5cc348ce5b4410b57c1ce35a589cbee99680a38 fix(frontend): fix scroll experience search page
+f6707eea70fed697b75d83f4d031991012c00897 Merge pull request #95 from Learnware-LAMDA/hotfix(frontend)/bugfix
+e29bdea138ba7b5d2ca1e564bad4030d027eb71f fix(frontend): login/register layout broken
+f1103e8727e589f38e729511cfaeec96c414b87b fix(backend): add call internal service in monitor
+673b35a7fc97c00fbae22d49ba40550356a469a8 fix(backend): restore proxy when internal access finished
+b528368ee3675a097c1d7a699a6de76df5971396 fix(backend): log environment detail
+5b507bf81a7457d4e99fef707af05c58951470de fix(backend): log environment
+a88f5e580fafcc6775ea08d79fe9f858d614366f Merge pull request #94 from Learnware-LAMDA/feat(frontend)/router_progress_bar
+a7bd675758cb80b94f08be1056a691102fc9a6c1 feat(frontend): add router change progress
+38f11c216ec6717a689ca545805bac3443d2fb07 Merge pull request #92 from Learnware-LAMDA/feat(frontend)/summary_new_data
+ce3736623163217cf3df1741ba82f20127bf8769 Merge pull request #93 from Learnware-LAMDA/feat(frontend)/reuse_search_page
+edb69fb88b2cf368dba3ec9a0a2cc5830cc9c803 feat(frontend): reuse search page and api
+bb809022cee41569b87f80f01c755844cf2800a3 test(backend): add test_search_unverified_learnware
+e4cb1e1ed07cdace8298f0677457a31ca8951ff3 fix(backend): fix bugs in SearchLearnware
+afe96faad6ac3ee68aa91f1bb7714c471da50e18 feat(frontend): (un)verified user/learnware count
+b0ca3fa3398c6f59b0ab1b5dac1b8f0e1becf417 fix(backend): fix bugs in DownloadLearnware
+b1beaf39ffa4cd24fddb8d488fb21003cbb4f88a fix(backend): fix bugs in UpdateLearnwareApi
+61683f83501cebf64c9a405f0709e8e65d4c8e8f test(backend): modify tests to be compatible with learnware engine
+a8cd636db0b76b0c52c2b73ce4c336a5631744b9 chore(backend): make api in user compatible with learnware engine
+ccfcfb6ec2fb2b12c961872eb89c0f859f749709 chore(backend): add new api in engine for monitor
+18c1af62f6c2ef50d7da5ef3b1ac036d54915f15 Merge pull request #91 from Learnware-LAMDA/refactor(frontend)/tailwindcss
+da340f8fba527841b4916e7202837626c7bbd3d8 feat(backend): add API for counting verified and unverified users
+7948192c3e09713328dca37bdda19d14f5a47202 feat(backend): add count_learnware_awaiting_storage
+488202f65abc4d4bda0558e8bfc048ede28ef270 refactor(frontend): migrate to tailwindcss
+721408868fc35c5486928b335d37a551876d0196 Merge pull request #90 from Learnware-LAMDA/fix(deploy)/fix_hooks
+322e09c9a4c887900e4b0e4044317a2b101d998a fix(deploy): fix bugs in pre-commit
+0ea7827a2bc7bfb3cb3e3f3d644964ab6e75c763 feat(backend): add EasySemanticChecker in monitor
+f6ea4f19720bcfc91441a59c049bff015af88b45 fix(backend): fix bugs in UpdateLearnwareApi
+e0dcc6e940bd54426066c4df2f7529d19e979912 feat(backend): enable raise error when import learnware
+47d32087508a34aa92f23410b8af0f70913c37ab fix(backend): fix get learnware list bug
+249bbf5143e854ebc113ba6cff1fb64d53353399 fix(backend): pass test engine
+4c485364fbabc94b5273fb08e60b68da8606f644 fix(backend): make check_learnware_file compatible with engine
+8255744569d2e0677c1c11017d69dd52c79082bb feat(backend): add is_verified parameter in SearchLearnware
+34b4c5be18c78da75b516799a0df6df0873281c5 refactor(backend): merge branch main of https://github.com/Learnware-LAMDA/Beiming-System into refactor(backend)/refactor_market
+f80c07ded2ec67daaa8a176129b76fc104b37e4c Merge pull request #87 from Learnware-LAMDA/backup_data
+6eea613cccf6d230d5e301813442fb9410ad934b refactor(backend): del old verify file
+6e1ef8670b3adae7ef7e872bc5b4b54eca52d8a2 refactor(backend): update verify method name
+2cb88186e1ae319ac038d0f755194cfe41df69af refactor(backend): refactor monitor
+bb2523ffce13f9b344b381500b9a674ad714223b refactor(backend): make backend compatible with engine and manage unverified learnwares by engine
+b65d5688a540381042449afdf7847d677f9ff44e feat(backend): add backup data job
+bd1b0b31560939e53a2f3e53b56f28ff427472e2 Merge pull request #86 from Learnware-LAMDA/feat(frontend)/reform_homepage
+ef3ad75a9b9fe956ae41c140f7b1c0cd87616523 feat(frontend): decrease the brightness of frontmatter
+1bdc3fd8220e0bc49156399da76c28fe55ad005d Merge pull request #85 from Learnware-LAMDA/refactor(frontend)/standardization
+3364034c7dd8913a961427d301c5aef71230d6c4 fix(frontend): learnware card actions fail
+1f0c08eaf2f5d8cf51362eb415b738cc1d40d0c7 fix(frontend): load isverify query
+831817f62477a837d4473c510f0031f43e718d5b refactor(frontend): remove admin login page
+dbc870e867538a54dc0c4976452a02fc073bc231 refactor(frontend): add eslint plugin vuetify
+549ad3add0839b2fafbf5081a6db315d543566aa Merge pull request #84 from Learnware-LAMDA/hotfix(frontend)/public_img_path
+71ea23e15b89017a17dd0c3982a62cf229aeaa88 fix(frontend): system.png image path error
+daf052252c8a502d0f767c956e9290546aa1a002 fix(backend): make backend compatible with learnware
+0c4998eca843819321ab5dfddae12bfa3b5d9385 fix(backend): fix Task value in semantic_specification
+22860e6945c658f1b4815caaa312e95c282862c2 feat(backend): return semantics specs without backend market
+8c02679a4438242f2a3f820f2e9e1419bd1a5128 refactor(backend): remove backend market
+9f9a317d51b5d956c5204f81ef9f262baea2e70d fix(backend): fix typehit error in backend
+0be06568abb4efca7bd17d87098016cde2020522 Merge pull request #82 from Learnware-LAMDA/fix(backend)/fix_search_bug
+058882c33d72cb47cbf3b42fcdf1f51156081f1c perf(backend): add logger in search
+ab3fb9af21339f41263ced4b6aa421ba98bbcaed fix(backend): fix bug in engine
+945808ca4c03bce998579a746d5ddeca1a070d14 fix(backend): modify engine test
+eb139521f97410b04126615c17b6e66af0543e6e Merge pull request #81 from Learnware-LAMDA/hotfix(frontend)/download_fail
+84fb95904995324bcc58b0c1410c4031f92f2fbd fix(backend): change api with learnware engine
+2c5fd861bf6559cd3fe20ea51b12c504c649ad9c fix(frontend): download url
+d1fe332ae0d85cd41c14da68c4de02e4c6e10874 Merge pull request #80 from Learnware-LAMDA/hotfix(frontend)/download_fail
+e606e84fc67217834998d0bda2116e36ac33144f fix(frontend): download url
+7bb414802fb9b6b9fa4efad1f0090420ed960314 fix(backend): fix bug in search_learnware
+ab492db596bf1191c76981b7cf66272fe3bb36c6 fix(backend): modify search_learnware test
+3cfe7cff46d56b80a49dd4c871e4867c6fbd0a30 feat(frontend): redesign covermatter
+2ca15e16b9873fddfcf26ee3be156ed801551dbb Merge pull request #79 from Learnware-LAMDA/hotfix(frontend)/search_i18n
+cbfc7ec4784883267f5dfca853d8272b5480ccee fix(frontend): translate learnwaredetail verified status
+e552609cc33535232abd5635092e58e0962dcbe2 fix(frontend): translate unverified status
+6e275b603a524b6a80f0153401247c595998ed49 fix(frontend): fix show verified translation
+6ee3a5f14a1b29e8f5f63ddd46699f516bbbd7dd Merge pull request #78 from Learnware-LAMDA/hotfix(frontend)/search_i18n
+f3163584b0bc0745e65ba848b8617a89fb1febdc fix(frontend): fix recommend learnware translation
+6a3809f0e356b1e5f2e4294581bd5a2f413c1e17 Merge pull request #77 from Learnware-LAMDA/hotfix(frontend)/search_i18n
+336bb62574cd89215f9b7f038e782c8218f41fc9 fix(frontend): fix some translation
+daab5b235d08dcaef6fae3426351320a78158180 Merge pull request #76 from Learnware-LAMDA/perf(frontend)/admin_style_opt
+a56ee88b3b1265bae191775cebb3c7eead36093d perf(frontend): opt role change style
+9af242611e33d553d91dfa23f2c5ef8182981a69 fix(frontend): fix type error
+04328d86c7aa137c147584c5da4869f24c653ad9 fix(frontend): alias @ to @admin
+8e4f78a666c65be96c9167e03dddacb1bda77412 Merge pull request #75 from Learnware-LAMDA/feat(docs)/developer_guide
+251bbc5c61dfa3bdbcc455eb3dce6db845396660 feat(docs): add dev frontend
+85b9edddb82cbd8d185044ae19ea3d24a44e1402 feat(docs): write dev docs
+f1dcebfe346f7db01adef4defb8212e6d826f4ec feat(docs): add stopwords for search
+186a1b8a0de462d50d1c93511475174d8089156b Merge pull request #73 from Learnware-LAMDA/refactor(docs)/standardization
+e1b5e012e3c6ca9a7b8fcb6f20c504290b6e22f5 Merge pull request #72 from Learnware-LAMDA/separate_backend_url
+c425317137e2e9bceae8ad691bbce1ae72037436 feat(frontend): separate backend and frontend host
+f70e8be440d1a91341b164ee59ad6d4319ea565e chore(docs): setup eslint prettier and hook
+521d2ede927d203239d9f2e8a31d3a6412cd0c7f fix(docs): fix tsconfig file include path
+31897160086db1c6961cc347e53db54b3a47b95d chore(docs): add eslint and prettier
+797f9372cc9b40e993aee6d3dfc9365702cb23b2 feat(docs): allow search by chinese
+01e19b49304a9e18be2887db4cd318bb348371a9 Merge pull request #71 from Learnware-LAMDA/front_super_admin
+fb78d2c6375074867144e4c546696c81ddc33ae0 Merge pull request #70 from Learnware-LAMDA/add_role_when_list
+ba40865d52095a9dd2f79de71892b1abadc61ed3 feat(frontend): add super role in admin page
+6e48bbc2df9ac48c39838d5a27314d368e8ce8ac fix(backend): add role when list user and get user profile
+af1f757625f95b935647658f570ea0b4f9da0e87 Merge pull request #68 from Learnware-LAMDA/chore(frontend)/remove_proxy
+3349355505b82af2df14e805dc5999d55489eb18 chore(frontend): remove proxy package
+ec4c6877a494538e2221f323b1acb634b26ece67 Merge pull request #66 from Learnware-LAMDA/add_super_role
+9372742a365a9ca9855e10b3cce7cb8b55689ca7 Merge pull request #67 from Learnware-LAMDA/refactor(frontend)/standardization
+e2d68128fcecc043bc7e3b74f324b149653327b3 fix(frontend): remove .gitignore in admin
+019d5bf781a669e5f4fb4881b1d4f550f43aed79 test(backend): add multi_import_old learnware
+020e5a32ef2ad9e2dfaac79f85ff51ba86e1f17c feat(backend): add super_admin role
+cc1716e112a1f6b6e1dab6d3ea53328c7d53c341 feat(frontend): learnwarecard click -> to
+6877ddeae1bd372d1e60a7679825b6741fe7692f Merge pull request #65 from Learnware-LAMDA/refactor(frontend)/standardization
+af1602b6553facf65473203d6bbfba8b1cad6347 feat(frontend): add tips for file upload
+306650e7bd729815e2ba00c719b1d95945dd33ee feat(frontend): change scenario icons
+36f0ea5c40726a88c1379724b8d1252934d00528 feat(frontend): change default description input vaule
+462274316aac11f8e487fd69d128c038051e7764 fix(frontend): sklearn icon
+d342c4a7cdaa01da006a6edb538691bbf6f66fb6 Merge pull request #64 from Learnware-LAMDA/feat(frontend)/heter_search
+febc366bac135f9d644fdc54e2df67f61df4150b feat(frontend): add heterogeneous search support
+d15586608c64b33d1d10ff3a72a944d9c69cd9dd Merge pull request #63 from Learnware-LAMDA/feat(frontend)/heter_search
+34fd9746f26ceba99b18125d2086cea433042338 chore(frontend): merge from main
+0f07d35525132473a2beca33ca3146f70df18aa6 refactor(frontend): run prettier
+95cdb44509af7a9baea99d132fff3ef451788086 Merge pull request #62 from Learnware-LAMDA/chore/opt_hook
+8b5a06078d5a7016e8e927b143c8b19402561d12 chore(*): optimize pre-commit hook
+3e6a86fba4f88e0bf9c6d063a529f629a6224cd0 refactor(frontend): run prettier
+057a0d17ec3a5e9c34b5e9bf08ef5e70296aaa9d perf(frontend): improve learnwarecard style and i18n
+74c480ade471b0581ec91c0b34dc455a65d70807 perf(frontend): redesign layout for search page
+38290bb9837ad62eff4174a3d9caa928a97554e0 fix(frontend): unexpected x-large
+2c63953532eb405115c948a525c40913e9406094 Merge pull request #61 from Learnware-LAMDA/hotfix(frontend)/admin_user_reset_delete
+84bc9c35e66b5b2b41543b547f5ae1b13b01b9ac fix(frontend): userid type string -> number
+abe866df595291a47981cd2b57b42150bdf6d7cb Merge pull request #60 from Learnware-LAMDA/fix(backend)/search_learnware
+3bd3067fc6b0d07c152585e42ae5840aad584aa9 fix(backend): change into specification.RKMEStatSpecification()
+c9d259affd96ffc899f85ed91b163b5a4aea1813 Merge pull request #58 from Learnware-LAMDA/refactor(frontend)/standardization
+0be575cc864521c96a20d3572fa82c261666fa2e chore(frontend): rewrite scripts
+f8b9678f9b4f61a82e45d2e2e950fb2e1053c8f5 Merge pull request #59 from Learnware-LAMDA/fix(backend)/get_user_list
+8781acbaf0d8f72ec463f6185d2a80ccbc38b240 fix(backend): fix bug
+50f0dc3428b4b05ff2f688526be75db837eefd45 fix(backend): fix bugs in get_all_user_list
+95816c52761a5599690286ceecb231aac9225e87 feat(frontend): setup reverse proxy
+be4334b8d5ebe2fde3aa4283341c2e7a4a92e6f0 Merge pull request #57 from Learnware-LAMDA/refactor(frontend)/standardization
+203866cb6df1dee30782de5ed6507f590fc35a69 feat(*): add prettier in pre-commit hook
+ba0b7af78ce93377731b178f172d271b4035bf53 feat(frontend): setup prettier
+34ce4cf559a9818743fae696a354edd4e41d6770 refactor(frontend): tag -> scenario
+53df0e1332a32234996e9993b4b8573182aff229 Merge pull request #56 from Learnware-LAMDA/feat(frontend)/i18n
+38c3f5b0d76c08df681c754ffad42eb926870a95 feat(frontend): i18n for summary page
+fe72caa47f3b1610b7540a0d7656cd2a4b9266d7 feat(frontend): i18n for all user page
+f44a7e7fb827bc5219789cce9f6e2356a0e63993 feat(frontend): i18n for mylearnware page
+d24cdbf419f8716245cfe0cc13123e01230020af Merge pull request #55 from Learnware-LAMDA/hotfix(frontend)/build_path
+bce007320948e8eace58e45eb67bac3b29b7d5f9 fix(frontend): add path alias in vite config
+03d609c2bad37f19909d1ee6da1003aab79cdaa3 Merge pull request #54 from Learnware-LAMDA/perf(frontend)/style_opt
+302f622177b246606f1533352b811716ffa5c975 perf(frontend): refine style of summary
+86ed671691858c2a8aca4e48404431b55e31fdcd perf(frontend): optizmie style of summary page
+7cf68775a996063df3dada41ba51464c829294b3 perf(frontend): resize logo
+5eb5eaadeee6740c1fe7b5ddd8c76b5383dbd338 Merge pull request #53 from Learnware-LAMDA/perf(frontend)/style_opt
+58c822aea7bcd5332c24e5c7f751d81e2dfc2e84 perf(frontend): remove admin home page
+0c88636a4e868287d9e02a30956c01498ba86c0d Merge pull request #52 from Learnware-LAMDA/refactor(frontend)/standardization
+1d2907f7e99ac0316eb25f4009c03c5f8d6be55a refactor(frontend): modulize locale
+4c7021c615769c7e9f174bec3104adf7418e2b41 refactor(frontend): modulize locale
+30268e9048d4151f9bb3a5417a9c390baf9ab2c1 feat(frontend): setup main and admin port
+63364c137626a08ad936c8e825614af985408684 fix(frontend): remove import style.css
+a811289767c9a2c23d6f1ce550fa780765998c9d Merge pull request #51 from Learnware-LAMDA/refactor(frontend)/standardization
+d47933eef466182a6eea9be5a023683ef481aff3 Merge branch 'main' into refactor(frontend)/standardization
+9e575a0dcda2c5e69e12f96c80f22a9e4f507c79 Merge pull request #50 from Learnware-LAMDA/feat(docs)/learnware_upload
+38c1a932059056c39884f247256d1cb8985f06bf feat(docs): add learnware verify process
+e9caecd686b93f4a6e075e7300c871908ebe4258 Merge pull request #49 from Learnware-LAMDA/feat(docs)/learnware_upload
+180b97ab6f2c2ab78dd4a0be5cc394ecc76c5f64 feat(docs): add introduction for uploading learnwares
+8896c4ef4c5c4cafbb76da3b3afd105c6dd96515 perf(docs): add the illustration for installation
+b7b382a458ad9160154f1da004720fa6ce46bec7 Merge pull request #48 from Learnware-LAMDA/perf(frontend)/modify_i18n
+c087ad6a06817a9599f5bbfd8ab1b420ae494ab4 perf(frontend): modify i18n about zh
+d516945700a6f6869e4fd8dc74c44188b74dd3f7 Merge pull request #47 from Learnware-LAMDA/hotfix(frontend)/learnware_detail_margin
+c7ae1702fe68b09d081e847f9f150a046d645cb4 fix(frontend): learnware detail margin
+12ba02f7007e2d5bde851b35343a70c376dd90a3 Merge pull request #46 from Learnware-LAMDA/fix_verify_learnware
+81335312ec245f61298ccb43b9e9d83b2d98fdb5 fix(backend): add temporary folder
+ecf30a30c4a0503dc0838da93b8fb428d991d4d5 feat(docs): add code for local learnware check
+9db0da3df73ab87006e4a3a1b13a96e33a3949b3 Merge pull request #45 from Learnware-LAMDA/refactor(backend)/test_learnware_client
+618ae0e29c13bf2be2c8f6a34e2ee4b1dcb0c193 style(deploy): format code by black
+43ae80d3c036fd4f811bd4f05e575bd3ffe26083 test(backend): modify test to match api in learnware.client
+022773c8a3ed35d468e83e01d068b03b0cd7ec1a fix(backend): fix multi import example
+3c6ad95539c4fc34654c4f0af505b79cc9e7ce7d Merge pull request #44 from Learnware-LAMDA/feat(deploy)/add_learnware_template
+2c723e9b8d9e0a1eaa38dcc034470034718a40cf fix(frontend): modify download url of learnware-template
+2a01e22bde65433734bfb86f8e3fde48c7fe0c1a Merge pull request #43 from Learnware-LAMDA/fix_test_learnware_client
+e4aab38ff995d17e8cde2dab6677d3222617808b fix(backend): bug fix in test_learnware_client
+aaed2c91c2688d598cd0fee1fc83edd980744823 feat(deploy): add learnware template
+9e713d5372062f6f6c2ab16592737c52a449bbcd feat(docs): introduce four necessary files in learnware zip
+ed3c8f8be2f0184022e6de498dca90ee0fbe6bd4 chore(frontend): remove useless files
+f01fd860d88f996634023c382d733446f06693fa feat(docs): add learnware format
+2acb59bd42dd5d44254b045c494401b843beaca3 feat(docs): add installation via source code
+b1da528ef5c1d57c9aa466cc2d8debf14f59f21f feat(docs): provide the guide about installation
+25e8eabadaccfce90425e934c1175d797f04e697 feat(docs): add docs about installation
+c4f8033ee765317ea7906aca406173d96d13c374 refactor(docs): create subfiles in learnware-upload folder
+1a4327ae4d54841f9a6276c7b867cda310dae339 chore(frontend): typecheck use vue-tsc
+f560607b39cd867db781e482d2c16e6fb07436d0 chore(frontend): reset version number
+18037a4300e52109155193eb10055891dd29bb4e Merge pull request #42 from Learnware-LAMDA/feat(docs)/add_search
+fc15e5500964eac09adaf5c91d2267fed0c4edea feat(docs): add local search configuration
+0c6cb81b82357cc45fcfd02642143392d2027bc2 fix(frontend): eslint ignorepattern
+faf40a2a2fc8985d4a6d503477b8a91ce88ebdd2 fix(frontend): exports commonjs
+a24ba42dccb718e81856745c4cd30fd359e7fa94 chore(frontend): rename project name of hooks and types
+8fee0bce0fbd727c17ae7af48cd45a44dde7750e chore(frontend): bundle types using tsup
+33a260fceec1fa03441a7003b199afbe5ab8eeb7 refactor(frontend): refactor type import
+a1c848bd711ddb21e2012321a3474548e48a3bfc Merge pull request #41 from Learnware-LAMDA/chore(frontend)/upgrade_vite
+7561c07d21e50e4b247db85fcfb0819ea05a2a20 chore(frontend): upgrade vite
+5326f33fea830b387b33f03470e1084c1346c6aa Merge pull request #38 from Learnware-LAMDA/feat/docs_style_opt
+e42e3c146db85961ef1bcaa8bda89d2ad7b7199b Merge pull request #39 from Learnware-LAMDA/feat/split_username_lwname
+b832448f08ad5b850f28a638654dc6f25c7a21e6 Merge pull request #40 from Learnware-LAMDA/perf/adaptive_pagesize
+503369fd92d9a0201ae3ef7c053b57f8d577b7f0 perf(frontend): adaptive pagesize
+27779254162a6b6c710a74321e55e020fc61ccbf perf(frontend): split username and learnware name
+50e46c3df6a4f0c7bae195fad1f84b29f8455153 feat(docs): personal navbar
+a98d54031660c6ad6c0fb50ea2fa1d2bfa0d6d88 chore(docs): add tsconfig
+a5c29b073b64462db3648f6355e90cf1ef4a1862 chore(docs): install dependency
+9c35b2b6431196e09b670a6136cf4236e334ba1b Merge pull request #37 from Learnware-LAMDA/test/search_semantic
+cbe8e143b23f9ed6de9570cc54b8577d2f0e281a style(backend): format code by black
+7faa06ef8933d92293f2269f7614115d5dc9b2c7 test(backend): modify semantic search test
+dca4410ef3b1e97e32a0d66a2dc79b1e6cbb6789 Merge pull request #36 from Learnware-LAMDA/format_code_black
+35e4dca03df9dfc22690d6654ec437f654ea1b7b refactor(backend): format code according to black
+82c285d4e5f1cd1e4a6f5aba7fed80f27cebcd90 Merge pull request #35 from Learnware-LAMDA/list_user_learnware
+37e84cef957099124c6f057302ce569ac0616ed1 feat(frontend): tabs for different verified learnware status
+92c2a4d0ab54decb18208165f13ce098ea59a9af Merge pull request #34 from Learnware-LAMDA/dev_admin
+b3a6457e01e56824180023b3aa96ed4b75851695 refactor(backend): modify response json format in ListLearnware
+d3be0a5c712611ca81b55f76f7ee673fb271c9b5 Merge pull request #33 from Learnware-LAMDA/hotfix
+ca8b91e45ea044eb26f1edd78ad7403aba4fa9fa fix(frontend): username not stored
+cc1501d845a80f258577efe7a30448290d0c6fdc Merge pull request #32 from Learnware-LAMDA/hotfix
+d00795c9abb488a54cebbe8028028bad514b58dc fix(frontend): appbar-title component name
+745edff56b758ccb583aa122abcf1c772991367a Merge pull request #31 from Learnware-LAMDA/hotfix
+72b075730a34ee564e123446e3643f2d4b1b0c5d fix(frontend): fix i18n syntax
+dec764e79127a739bf6c963680d68c654a5c3905 Merge pull request #21 from Learnware-LAMDA/dev_username
+ed5ec60bd34dbfed881f3732c65f2676fec684c1 Merge pull request #25 from Learnware-LAMDA/learnware_template
+43758586cc78eca569110f9833b8035b528f6af0 Merge branch 'main' into learnware_template
+cc7140a5d3d50c32841266791d227c5613d3b4f5 Merge pull request #26 from Learnware-LAMDA/style_learnwaredetail
+20e014875a5cd8a051fd998436330497e39c37f2 Merge pull request #27 from Learnware-LAMDA/auto_complete
+1375e5b9c4afdb7c57e4a001f964815a6a286098 Merge pull request #28 from Learnware-LAMDA/resend_delay
+044f3f7a34e52336000ccddd09e733a3ecd9426b Merge pull request #29 from Learnware-LAMDA/modify_verified_learnware
+6257d05b543fc34388f8f68a298b331c3d7dfe82 Merge pull request #30 from Learnware-LAMDA/hotfix
+83fda37261d2d5e88877aa491ef66a04458e77a7 fix(frontend): remove console.log
+88b24c26f6074eed00592087f11228fe2c0d4b9d fix(frontend): locale for file check
+840077cac9117c32ac06bdb705ad912e95b3199a feat(frontend): locale for youroldlearnware
+198af0ae36ee8003938d6f421fa9beb3ebf9dfc6 fix(frontend): labeltips i18n
+f9e1d4ee3144ec7353f0843f1bf8581cabc6f809 fix(frontend): remove console.log
+a39b72e92ac49a4a056a4495e7b1842d75e53ff0 fix(frontend): break when statspec not valid json
+4f453ffb8c854dd656ae9a68b1994656526be982 feat(backend): do not verify learnware when user only update semantic specification on verified learnware
+9d915b408828789f3c19ad4f962c7879ef39ea36 style(backend): format code by black
+7a95aa87e933d7ea780f9e95d75c76ae576bc2a1 refactor(backend): modify workflow about is_verified in ListLearnwareApi
+0f037086ca11cebce0b6b263653f57e0fc270091 refactor(backend): add is_verified in ListLearnwareApi
+9b7184990646ff9fef7fec99a725ccaae1d7f43f feat(frontend): delay for resend email
+fcdc109aaba2ddcdec3eec2706caf4189c6ecbb2 feat(frontend): auto complete email
+23cd4831f771148a8dce4ba659c127315efca07f feat(frontend): optimize learnwaredetail style
+e24fab0fd63a84e38e4c213f1484be5af6a6281c feat(frontend): add learnware template
+97393562d46f8b0b204916691247b7c8061ef439 Merge pull request #24 from Learnware-LAMDA/hotfix
+853c448ae181526474e9e37580fb40501247e104 fix(frontend): fix locale key name
+43459552e6e9322a25c2114899a3e9db6b734a93 Merge pull request #23 from Learnware-LAMDA/hotfix
+e13486b62ff467ae8ebc9dd07f5e7ba7c5d2343a fix(frontend): fix some unknown locales
+5614e4bde79164e4e106bfafafb07cc49ef32eb4 Merge pull request #22 from Learnware-LAMDA/hotfix
+0be0822e06ae49baf7334a072d5849afaca388a1 fix(frontend): windicss not working for other path
+14401a6146320363f83ced9f1fc06134b4c31381 feat(frontend): show current username
+25a4924bae0caaf7088acf0627588ac3ba06cfe2 Merge pull request #20 from Learnware-LAMDA/hotfix
+3357313a8b597858a08a5a7ef652bdb87ed5db20 fix(frontend): fix user learnware list api
+4b9d4d9a13ef674114878335717b54beeb9cc094 chore(frontend): reinstall chartjs
+8939edd66147572ae40b3d31d1727d66e4bfdbba Merge pull request #17 from Learnware-LAMDA/dev_docs
+e2d9a8ec57d9fcb36022cd70ec67bf1d59413b9e Merge pull request #19 from Learnware-LAMDA/reset_password
+39f44bba40d1f8be1dbbf7d112499ddb5ac373d5 feat(backend,frontend): enable user to reset password when he forgot
+186db019eca5c0c5ae01ef086ff82d9716460952 Merge pull request #18 from Learnware-LAMDA/standardization
+b06aea878114cf077a1195e4d8a9f46b8ff31905 fix(frontend): fix response type
+be1b032cae3047f02c230a14ea5e16798c8e5bb3 feat(docs): initialize the document structure of zh-CN
+298a235b94f662e53a613bd5d1e97acb9298ec85 refactor(docs): modify basic setting
+1feb62e2e4aab41930b2dd8b28a55e046b75e7df Merge pull request #14 from Learnware-LAMDA/system_docs
+2bf085da7f4b9ad3f5c170657899c752053ad1b2 docs(*): modify commit format
+5ce592a24d65968ab1851a4ec2ffdab02a176707 Merge branch 'main' into system_docs
+6d2bf5c9c93cf065388b5ba71ed76adc6cb54db6 Merge pull request #15 from Learnware-LAMDA/standardization
+3cc308427e7ec97469e281baed7ab21c70658047 Merge pull request #16 from Learnware-LAMDA/dev_hooks
+bd392e7ff847bd9abc89d781729ff9f1a90dd73c style(backend): format code using black
+87bfa872c3e1c8441e91680107992a2270566b0a style(backend): format code
+1720896198c298bef64167bab34995f1b8e969aa feat(deploy): add hooks
+f4f67c59100729c2241000302db8bdd6e7081df0 fix(frontend): fix descriptioninput type
+72dafc6ed194299c68f454b0a46135f022d25fd3 fix(frontend): summary not keep alive
+ee382f66e2e09b94417a8e4805c33733366678ba fix(frontend): fix keepalive include type
+79444b62dd81b9ff7eb2972c7b90efde994a25d5 fix(frontend): fix type errors
+8fdfaffd5be1ef94ea46085a137d8d9d155f1e9c chore(frontend): allow synthetic default import
+675d73e9978c34a991d6b4dd1e5ee19a9e7ee43c chore(frontend): add vue-tsc
+b823cadfd281a20bb1137fd5adce6c85df4675b2 chore(frontend): add checker and eslint plugins
+3a7becad833345970f605385350b5278703f470c Merge pull request #13 from Learnware-LAMDA/validate-i18n
+82bb2f100abbf6daab613de38a9569d0502abb7c feat(frontend): remove vee-validate
+7b42a7cda7e4f20d87457b8c0728b314d5603764 chore(frontend): reinstall hooks and types
+6595bac7165085135370b8e3d351f4db26b747bc fix(frontend): fix librarytype typo
+524c698f16b2b841ab2636105a52f012b0c80601 feat(frontend): default value for descriptioninput
+12a0a4cc729528fded4c07abfbab14799344bee5 feat(frontend): add defaultValid for field
+1e2063859a90e5b759242378c36971d1e73cf345 feat(frontend): finish submit function
+3c3eb0dabec5daed57e254bafab11f6cb2f52f55 feat(frontend): i18n for validation
+41fadaf070a06166f96aed90ae7239b673f65e8b feat(frontend): define learnware type
+166d84df03e4cbe26a03adc62750e10c2d485295 fix(docs): remove katex css
+5a4f6e27f73910f0997f53ce565d51c0535d7e42 fix(docs): fix mathjax customelement
+8988ee5076b1c1cbfc3d13bef06994cd19cfb7cf chore(docs): setup the docs
+179cc478cade0bfa9d1e7e306032ed6fbd70683c Merge pull request #12 from Learnware-LAMDA/style_learnware_detail
+5160a39b2f8f5f4d7501f2d4ee67e5a088452b88 chore: merge from main
+82562992ebc93993de871aa1d308e199a4f27131 fix(frontend): fix return type
+105dfc58a0a86a2c2e32c1b5677f824d6db464b4 Merge pull request #11 from Learnware-LAMDA/workflow
+4e313e528cdadb9e7d9f9c52b30c5e431bc74bd0 chore(frontend): move to typescript
+cb08d35ddf6e5af0eb20aacef2fa5faf6824328a chore(frontend): move to typescript
+68067005208ab2cdba63821843c441398baf9786 chore(frontend): lint vue files
+0e74328d5474e3117f06ef5d344946b51d9ff1d1 chore(frontend): install typescript
+9728add7b5b0c680712fd9a2997773119377fc8d chore(frontend): lint the whole project
+452da091f9228722939b0acd882fdb19ef2357f9 Merge pull request #10 from Learnware-LAMDA/proxy_verify
+682f9ef81cc1c008f95b14720db80d135bc35ce5 chore(frontend): common eslintrc and prettierrc
+f8e45b2eb016e968820dfa7366afd0c0e1fa6c00 chore(frontend): reorganize dependency
+c6e4628ce1e4e5c697581e4b7b7febd4ae7fa741 chore(frontend): change to pnpm
+11514d01a4da30e8c59af4990110b6020628095b fix(backend): proxy learnware verification process
+5319b5dfedda256dbdbab1465f477209b71dec99 Merge pull request #9 from Learnware-LAMDA/update_user
+112ae915fdcd9e82c84369900ba27fe072310c17 fix(backend): resend email and update user info when user re-registered
+0d32f49386bcd985fed660f7631127b2235f62d9 Merge pull request #8 from Learnware-LAMDA/resend_email
+80dd89d273a35d9adecc5f131dd15a4073fc687d Merge pull request #7 from Learnware-LAMDA/email_proxy
+b1ff379569f70c464cfd35a3585b9a1d51ed7ecf feat(backend,frontend): resend confirmation email
+e1d795e4936a98b44aafb0163aa943bbfa82649d fix(backend): add proxy to email
+ca03a261babde7b160a823ce2b892de225ce8573 fix: description font size
+e17bedd83b934c2c6100aabae07cb3d764080366 feat(frontend): optimze style of learnware detail
+f829987e1402acbadcd0cd6fc47a483350a70650 Merge pull request #6 from Learnware-LAMDA/use_default_dbname
+3ea4bc9c21d7fac8346e35b56b0c92f6f77b19f5 fix(backend): use default dbname when create database
+079d30c46d0d362bee9d5e8888b488b793159a1c Merge pull request #5 from Learnware-LAMDA/init_monorepo
+cf637d618a753a2cf5f9604faf11297e7baee926 style(backend): format code using black
+c8047cf4e43f49020b791eca6da1e5a37a2f10f9 Merge pull request #4 from Learnware-LAMDA/init_monorepo
+2d0d260b412738b88f7adbfde6fc6f63852de9f8 docs(*): modify readme
+b750bc56931d71f0e6ce2420d6bd8384609dff2c Merge pull request #3 from Learnware-LAMDA/init_monorepo
+0cd0d22fe974f705f059707191f662a2b66ed765 docs(*): add commit rules
+7933efb3d0d3ce6442f414a5be550a4e0413cdeb docs(backend): modify readme in backend
+6199c129be47f4b92d0cfa9988258869366149cb chore(backend): merge backend gitignore
+d3b1f8cfb53cdc465cfff9a27c1e05fbade55049 Merge pull request #2 from Learnware-LAMDA/merge_backend_repo
+15cfcc7fbe058f141cd087f4ab4fd788c7c16b91 chore(backend): merge remote-tracking branch 'origin/main' into merge_backend_repo
+a89cd17fe116c16057fff56780d25808bc6612c1 refactor(backend): modify file structure
+4c9904644a7e4026991e4757d675729ac7eb7543 Merge pull request #1 from Learnware-LAMDA/merge_frontend_repo
+e27acbea2217257aa1adc5b4e38a9cc4ba55d213 chore(frontend): merge branch 'main' into merge_frontend_repo
+6ed190894a94d2afda3dcce72279215867a9a6d0 refactor(frontend): modify file structure
+8790ed575d4912275c5d12367949821f342bd1ab Initial commit
+eeed1c9d85ed96d59f0cf37405b52e560cd1e140 Merge pull request #41 from LAMDA-NJU/thread_verify_email
+d77bdaf93aa95a58b5c1e39958dd640a983b34cf [MNT] 1. make send mail threaded. 2. make verification_url https.
+d39a670a10c62e695919d20eb22cd1a0ba2540e4 Merge pull request #38 from LAMDA-NJU/email_verify
+da9045622ff867325e2956d4b8ad9f8d07b89beb Merge pull request #40 from LAMDA-NJU/admin_delete
+bc0d9c9d03c3a4caef50dabd124e37f6a5711e65 feat: add email verify page
+21787fbcc7e6c9f6268629719b5eeccbd15d8f4f [MNT] bug fix: allow admin to delete unverified learnware
+55e77f1356924e14add1d400eaff56ad828f0f1d Merge pull request #39 from LAMDA-NJU/verify_email
+7d098f41ae308f1bab841941cc6cb39acea32aa0 [ENH] add email verification when user register
+0767e7667761561b3a01953b89d8c28ae3dd2cbb Merge pull request #37 from LAMDA-NJU/dev_user_learnware_list
+4ed4ef068b8ed1bc8425c87eab8c80d7200716e3 Merge pull request #38 from LAMDA-NJU/dev_add_learnware_count
+a853b5e8dff45b1fb3b22b19608b7458f7048e2a [MNT] Modify learnware list order
+f154df3d55c72dae33f9a94eebaf5799c7a15245 feat: user learnware list page
+d77852e616636ceeb8a69eac090b78625cf1a581 Merge pull request #36 from LAMDA-NJU/dev_upload_progress
+9dad46f01884d34b939e91e20f86e04dba9de258 Merge pull request #35 from LAMDA-NJU/dev_user_learnware_count
+c6c1ff604c95c5ba5cbe66b0e849b6ddf7ad0c81 Merge pull request #34 from LAMDA-NJU/fix_keep_verified_state
+0f7914d80421b4e925ab4f1c95d953f91fa58d97 Merge pull request #33 from LAMDA-NJU/fix_svg_url
+3d5cfacf404d2027f01ab3075f5dbbd3169377a4 [MNT] Add list learnware by user_id in admin
+88007df969bd5383441419851c1146e286eaf3f0 fix: chinese support for csv
+96fbeab69b1925d45fbee47bdb88b834a6a50d2a feat: show learnware count
+18258ed61a5956c51811215886c3d823f4a25383 feat: save content to file function
+e8e9fe07c45cba9afbe6041f752fb43cda3cf549 feat: show user learnware count
+96a555a46f66a1e53a3e6681ec853ca32670da71 [MNT] Modify details in get_all_user_list
+23ad8969e0ac61ea6d26af37a0c1f838abfb222c [MNT] Add learnware_count in user_list
+eca293a0673e4b539616d88f354016b0a5f0a391 Merge pull request #37 from LAMDA-NJU/allow_admin_log
+130de4135474d01ad3916a31b7cf13a0d60dc208 feat: upload progress bar
+58ca1bfb7037cee512b1fa8170ff437471d0c5d6 fix: no loading verified from query
+457c24272e0a1dd59cd1a28c2fd8beea1fbda236 fix: oops import url
+05beaf201e9487df17a56728730d44e38cd8e18b Merge pull request #32 from LAMDA-NJU/dev_opt_style
+7f7f5da8ea14ae91b667f2fe285e6f8dbf664718 Merge pull request #31 from LAMDA-NJU/dev_monorepo
+612e124671c99ef2f197ac55d182f9e054a92f89 style: learnwaredetail page
+dffaedead5bb9cd6183adb91a12a009829f51dfc style: appbar logo align
+b10b8feb5cb1e0298f166fe7e2913570dd2bb46e chore: update packages dependency
+8ebd0d817cb57907bbaf8bc8899568d661910f1e style: optimize learnware card style
+acae24bc90f57ef5b89c6f2a34beba20bdc9f446 chore: remove some useless pages
+e394eb0a4e41731c504c76d93da21dabeb8bfedd fix: windicss class not work
+774ebb1e0372e9c583ded9791509c31a1386d653 style: optimize verify learnware style
+c00d55eb7ec548cb4172a469ee6180c3c71f1ff9 refactor: use userrequirement component
+7320d77a842edaf5e42d95cebde3017705a5e5b2 style: no circle avatar
+bdd2b876ce5b1b196d7ed7640de28bcf321a92ae chore: package reinstall
+1c9c5f7d6861c9d0628328a75f7debbce4f95a72 style: optimize style
+69d563b4453e12875b69e70866567fdbea8753d6 refactor: move views out of folders
+ae8ae57e4e3b21407c34ffc57b286f248c9e358f refactor: move admin views out of folders
+1f4059f69ac1bf798518e8a432c3938bc062d5ad refactor: workspace main and admin
+6a87acdbd1c5d518e6fdecca4d8ea658ee311202 Merge pull request #30 from LAMDA-NJU/dev_i18n
+59fe37ad46d881d6d407eefc5559bda9b191cc42 [MNT] allow admin to view logs
+7b6af773017ef66304711f574c3d641b23e0861f Merge pull request #36 from LAMDA-NJU/ignore_pyc
+6cd5746245e7a12d7ca74e00015f2029d2b98958 refactor: move translate out of appbar and drawer
+c8527a52e572b68efa0fa209821870cbb081d06f feat: add chinese support for navdrawer
+99d9e15d6b2c0116c6f087730e961a12d4da4095 fix: cannot hot change lang
+49898ecfcb483c2a58255a08dbcffc1fbe1f590d feat: add chinese support for description input
+25b2e4753b77385f86f4658683996d2b721fa02c fix: wrong scenario key name
+b11dee6bf768977edea84d9ca696a057be21a869 feat: add chinese support for oops
+ab03817a3a9e71a1cec70b5015eed57331db93d1 feat: i18n add chinese support
+bd5dcfc6873b02dccac0d2180908453e16cda230 [MNT] ignore pyc files in zip
+4f7c631da18d8ca054ea2d873f3c9aeca42e0ea5 Merge pull request #35 from LAMDA-NJU/multi_import
+3cef6c5a81bdad5070bf11d513e8de8cf8ae7b2e [MNT] handle multiple import files in zip
+328f826db2c1b52b28e0067620f7491fa09049ee Merge pull request #34 from LAMDA-NJU/search_by_name
+2e02e0b7a9200ac733b6a25e448847eeb1cba7d6 [MNT] fix search by name and description
+321f4447b587ccc708cad400faf450670a91c8b8 Merge pull request #33 from LAMDA-NJU/list_unverified
+10747c0b97e5a5d6bdacd965b25433506f8ee563 [ENH] add listing unverified learnware in admin api
+d39d0c99e0430fdc268176739c2ed78d2b648401 Merge pull request #32 from LAMDA-NJU/add_admin_summary
+ed3019dbacdad3f77084f04ba25fb5f0caf0d999 [ENH] add admin summary api
+156e612a455b6be92aacb8bb79f387e75251c9c9 Merge pull request #31 from LAMDA-NJU/add_log
+66b7b3e4c608304fe0ff911dbb196ecb4d978550 [MNT] 1. add download log in db. 2. bug fix for default parameter of now()
+c5660d6504a39abd33e86c713f492b26098ff7b6 Merge pull request #30 from LAMDA-NJU/client_load
+4a9fd46b999d2d1eb2564a69472220c924a31005 [MNT] add more tests for learnware client
+31c7f8b4fb580f45ba05170b8c1f1e580886a158 Merge pull request #29 from LAMDA-NJU/check_model_rkme_dim
+63abffcfe0eaaf79e79c6436ff3a488d1eb87336 [MNT] move check_learnware to base class
+4c06c3d528a0133d058ab5c163aa1f315b09c76d Merge pull request #29 from LAMDA-NJU/top_folder
+b9b2af7c1e0f65e8ca5e6d1fdec52acf3971705c feat: aware of top folder in zip file
+a39130238a5f19afbdab40a020a4cd223c7350ec Merge pull request #28 from LAMDA-NJU/top_folder
+c893c4f2a53a53e890c8f3d50e8a3bffa25d3969 [MNT] aware of top folder in zip file
+1e13a5a92a0b3dfeb24d609f52cea329c1837f60 Merge pull request #27 from LAMDA-NJU/log_timestamp
+18032c5dc4dff24d0f293e4795fb4d0419c1320b [MNT] log update timestamp to debug
+760674f528244553b346d4c46b0fdb18a2e85aa5 Merge pull request #26 from LAMDA-NJU/rewrite_zip
+0d7e103ca65cedf82d4cd4481f05baf0e99bb7b2 [ENH] rewrite user's zip file to add semantic specification
+3f1baa6ff2cc7c54507191e11d4afa09b8eee923 Merge pull request #25 from LAMDA-NJU/reset_passwd_admin
+d778c50daee7b8f6c9ac124368b86278896961f6 [MNT] change password for admin
+1e6eacf919257cef003f8b7f60d60a107b282f1e Merge pull request #28 from LAMDA-NJU/fix_valid_mail
+dfaa897833881f1d23d7a9c554aac7d1e9360ca7 fix: allow underscore for email name
+bff06329442575c7c7424c17be5131ca4bfbe3ef Merge pull request #27 from LAMDA-NJU/add_client_token
+63f146589710417004bf5b6a317d51fbe76dad0a Merge pull request #24 from LAMDA-NJU/client_token
+054efe4edef5c700e48e74f3559cd805d4fd92e7 feat: add client token page
+1f1410e5a532a019d8796dfff691db4df79e825c [ENH] add client token related api
+e63561701c6b65b16350e329206abb3b8cd17995 Merge pull request #26 from LAMDA-NJU/add_detail_inout
+4e4834c51154572b78cb1c6bec7b56f0f2ff53b0 Merge pull request #23 from LAMDA-NJU/bug_reset_pwd
+32b764b60740aa41dd4649751ddbc2e6cf72d0d3 [FIX] use md5 to generate hash
+4e8b0ac1a313c1e5d1891a29e3715fae67c41f64 Merge pull request #22 from LAMDA-NJU/add_timestamp_for_detail
+9aeb02fd4f54146b78b1691c074a44f375c03ce3 feat: add input and output in detail page
+f07c23e7a3345b21941df7d13126d279fcd17b45 Merge pull request #25 from LAMDA-NJU/add_timestamp
+69ddae10440518988ce2a4fe33d7d10aa62857fb feat: add timestamp in detail
+05e7d8da161681e57babab1f884d7ffc40ec0c32 [MNT] add last_modify for learnware detail
+17a5ddbd95d0c49bf179f1e45f499c5fe6541b83 Merge pull request #21 from LAMDA-NJU/add_timestamp
+f5b3487641664d65f03f4711649bf682706e13ac [MNT] add last_modify in response
+796c41152dd79a10339ebdbcaa800d17f84586ce feat: add timestamp
+44bc4a6102371437e9718082f280b800d3b399d3 Merge pull request #20 from LAMDA-NJU/add_client
+db3cc8a232a337ad90069e8f8ee8be42ec2f1b88 [ENH] add learnware client support
+3ff3099ea49eff7442875d8ae3f6fd8b7b10da62 Merge pull request #19 from LAMDA-NJU/filter_nonexist_package
+afb2ba3a1794906a3a17e46a08d840728ef30d3b [MNT] bug fix: update verify status only when status is success or fail
+3829ee515323cc4b04ba32255a854fc90f21887d [ENH] filter nonexist packages when checking learnware
+eaf2caac2aeacb58d42c3a086de2dafb56cfdc2b Merge pull request #18 from LAMDA-NJU/update_status_for_fail
+4e7de6690a2f8cec8768f4152e461a8dd8812ccf [MNT] bug fix: update verify status for failing learnware
+10a36478af99b0fcc4d6c582df1d72a9371474aa Merge pull request #17 from LAMDA-NJU/list_learnware_order
+f0f0b38999f8b0c499f2602eb9a26f5d46dee17d [MNT] order learnware when list learnware
+6509f3b8cf6fb2150ea1775521b2fa3a9ac5f001 Merge pull request #16 from LAMDA-NJU/reshape_output
+0e8c0eb48b7c95f3f679ba4ee44bee2d0bd8c970 [MNT] reshape output when output dim is 1
+0988e42884e81da3f63d70597677f12cd6ae3767 Merge pull request #24 from LAMDA-NJU/dev_subrouter
+305747cabe6d319b7e46b9a7e3675fd33e9641f4 Merge pull request #15 from LAMDA-NJU/reset_status
+c86f285e2d0b9c8ec4fd8e88f803677c6705e089 [MNT] reset verify status when learnware updated
+470c7f068b3741fade66e1fdccd54fc8562583a7 Merge pull request #14 from LAMDA-NJU/check_inout_dim
+c0789a2109a5b4f93a72ede1ecccfae92e38682e [ENH] add input and output check according to model input and output
+4f1bfdb8c446aa1e8cee7653fac59faaacc6372a feat: add subroutes
+4b186b721af4e02710566f932efa58cf210ed61d Merge pull request #22 from LAMDA-NJU/dev_update_learnware
+0838d037be47d990b17f4b500bee4824fd0734d2 Merge pull request #23 from LAMDA-NJU/dev_inout_desc
+ee4185795b7b2167ff114080974e3aead41562cc Merge pull request #12 from LAMDA-NJU/reinstall_werkzeug
+544ce6dccf1939a26dfdc0383e6de8d388f969a8 style: fix an alignment
+381b51f7f2aab6f7361ce67e6d210cf73e96b4e0 feat: check description index
+26b7830f1f570dcf80ccf8faf0ab88c8e59312c9 fix: keepalive only when not editing not work
+c6641fbc825d936eac3a05eecbd0614b7eb413a0 fix: remove console.log
+458d4c808116bc0a51b716b5d4431c33e945c728 fix: remove console.log
+9a8a0d750789db52e9601d2697e6133152b0590e feat: hide file size when old learnware
+ab35b052df3ce1089218ee35fc3dccfa76941f89 feat: keepalive only when not editing
+07d932da83b61dfd579abfd18002b6d9abd51635 [MNT] bug fix: reinstall werkzeug after creating env
+b8a6075cad03cbd64afada6e1b57b6066b744650 Merge pull request #13 from LAMDA-NJU/download_unverified
+96bf4fab8ccf219682a73dc8ccfcf5c9205379ab [MNT] make unverified learnware donwloadable
+8f6c19e01d80ccc4bc5aa0751d7c311977c5d976 feat: add update learnware feature
+cd8ec3da74b76aeada0a605607092a395bd6c34b feat: define click edit event
+358de0ba79364542dc49332b5627e23a0e622655 Merge pull request #21 from LAMDA-NJU/dev_zip_size_limit
+0a1c20b417d7e80a0b7d72e3301c1c0f04de2d9a fix: file size limit error
+cb11987bfd0283b486683621a0b669e370f7108b Merge pull request #20 from LAMDA-NJU/fix_file_variable_name
+a300d76b08c62936908cb1d759917b69f57380e9 Merge pull request #19 from LAMDA-NJU/dev_footer
+be5624b36bd3a7b79e85085ca03ad06a547ab1b4 Merge pull request #18 from LAMDA-NJU/dev_zip_size_limit
+80493943a8527425ff3566dcaee4260acecbd816 Merge pull request #17 from LAMDA-NJU/dev_inout_desc
+249d996b707b86b5d0289d5024d078b88ce95d52 fix: disordered _file variable
+d87eb4cb57d7222a5e077a6e817f35314275d4b5 feat: reform the footer
+dc8a39fd1bb1f9c53d5207676af51eee7635d853 feat: limit upload file size to 1G
+71fdb37ddd3e1639ca171fd53b90a09cba1c79af Merge pull request #11 from LAMDA-NJU/dev_check_upload_file
+9e632cba1c0dffebdd18649878af4940e283b037 [MNT] add waiting_queue status for verify learnware
+dc4b433d6e58256ed03f8634a5559ec26963ec67 [MNT] add log for monitor learnware
+07e9991ae33b0dcfdd52e360bc4f7d4533310562 feat: add virtual scroll in description input
+80af7bd0e181bc31884335bf9af2e7aa7aedf325 [MNT] return error if no stat file in learnware
+f638cd463d9cd7c2de8999460d780a2284b84b28 fix: remove useless me
+7daaae0a0464d0eaa40fc8810c65697dbe02e02a Merge pull request #16 from LAMDA-NJU/dev_update_vuetify
+969bf67dec011508f82c1d491f5714928e116d73 chore: update vuetify version
+e7e051b454a92e0c2f3a6f5cae4d529c873c5a98 chore: update vuetify version
+2793cf995ea1b80fbb09eca87259db7313532073 style: move icons all append
+2b660f4056fda24d89d44af9f8b57b8a9e6d94ef style: move tips out of container
+32a990fe86fb999b9be865b68251d102781c24de Merge pull request #14 from LAMDA-NJU/dev_inout_desc
+8ab797a2c3bc69fa717324096f39fc6fcafe8433 Merge pull request #10 from LAMDA-NJU/dev_update_learnware
+de929abb59201f784e5ee7a64e4d2149e2da7139 [MNT] add url for update learnware
+5bb57927f1ffeb0bb9dfb09d7765cab737e0264d fix: on the left/right display out of order
+43bc06507c17ab4545edbc6cc87976c466623857 style: optimize style for desc input
+6d47019140351c76070ebbde19c0e6a66fd65abf style: description info primary color
+3d6878c45deeecfef0c0e242afd3f519551dd12d feat: make add/delete button show when hover
+5141a624dc8753ed502a08dcbfc02b11badf7b47 feat: make description input clearer
+ef496be2baf524c2d57658307f680604abbb2ad3 style: restrict height of description input
+54909c4b5fe42ab2816a1cd934a3e3546e54985c feat: description name by prop.name
+e221d38028e0efa78fc195906ba91e7a4d276d3e feat: twocols input for dimension description
+8a586006efd30154129d1415982d085c9788dc36 feat: add debounce and throttle
+5c0ebab1a175dd7efcb4940594dfb827a748c597 Merge pull request #13 from LAMDA-NJU/dev_inst_redirect
+55a6e2047ff4ebb34c03654161fc590fda4abf85 feat: redirect instruction to docs
+5dc116c3b58e9d588d33a811fc730a5708fac7c0 Merge pull request #12 from LAMDA-NJU/dev_inout_desc
+0801842aefc12812eb0d4e57dab737560e10e977 Merge pull request #9 from LAMDA-NJU/dev_inout_desc
+b58654a3bfaa4a3b1908366eccc5f8caa88207e5 1. add Input and Output in semantic description
+708b2a553dedc5ae9aae08bafd291c75e2d725f4 add Input and Output in semantic description
+2b0bdf57d6f914f5b7b877badec4446dcf61f014 Merge pull request #11 from LAMDA-NJU/dev_zip_verify
+77d90119a5efb251fd8010203d6f70d437e3ff91 feat: verfiy the upload zip file
+15c6864b7bf33915ed89508a97c26a509395e8ba Merge pull request #8 from LAMDA-NJU/dev_learnware_db_change
+3367e49bf4ac2713fea539d119831dd0b682c8f4 Merge pull request #10 from LAMDA-NJU/dev_learnware_verify
+d358ae037f41b24b193d49605ac44f34330c4280 [MNT] adapt to learnware dbops change
+90f3c818d21c33435db78c510212db947a994808 Merge pull request #7 from LAMDA-NJU/dev_learnware_verify_restful
+d5a36d2d7ab59cb7abbbd171339429dce095ea74 [MNT] change some restful api to notify frontend the status of learnware verification
+680f6797e8fbdadfaa9fc654c6bba2e220f904b9 Merge pull request #6 from LAMDA-NJU/dev_learnware_verify
+64254d24faa12d5427ffef1b4908d85388f8f01c make frontend aware of verify status of learnware
+755d173c193dad8b7a8953622ebc49f336a3ebbb add learnware verify code
+600df10c07024094e18bfff3af9f59f94727098b Merge pull request #9 from LAMDA-NJU/dev_handle_401
+3806c956bb58630528bcaa5c8bb22f9d32492937 fix: handle 401
+81814d5f49892d0ba0eb38ab4f9c42b62c61b8fe Merge pull request #5 from LAMDA-NJU/dev_handle_401
+f4a11565ad8c6eebbf90d85eeaae99d3193911b2 [MNT] handle 401 and delete deploy
+e5b33916082f5ed9bab936f5f62c3d870604f967 Merge pull request #8 from LAMDA-NJU/dev
+2940b4bef30a078ce2af48f682ba284091cebdb2 Merge pull request #4 from LAMDA-NJU/dev_add_dependency
+e61ac8be74796c63aecbae7d9ee3fd525a050711 refactor: add base url in all request
+55f8621150d6a94becacd3f74087627293e4abd1 [MNT] add dependency for postgres
+7a0bf499568111631833a2884a4eb88b259def2e Merge pull request #3 from LAMDA-NJU/dev_backend_reform
+172bd1b1fa62ec7520a4992aa6e95f504fc17fcd Merge pull request #7 from LAMDA-NJU/dev_backend_reform
+aadd513c18166f0ac5fde36c06120e118b2a8701 [ENH] add reform code
+ff2ef6d3f2ef30813543a60ddd9d5e8ee01d1d2b feat: change some backend url and add jwt authentication
+b06aac3d1cdc6db4d9008d7f6188db57272623b8 Merge pull request #6 from LAMDA-NJU/dev
+66a0bbd329ba7a378f8c2d4e3d41bf482f4797df feat: btn -> router-link in appbar
+10098a3dd501b48c08ae8cfc7e2af0e15b76673d refactor: move common action to finally
+80c33b047375e1d2831d8eee4eca6b239e5014a4 refactor: remove if in load query
+54f434b1c93c0361a83e16b41e4a2a4344b08903 feat: add doc page
+be4221c4a6bddca671602ae926e14148b1004b7c refactor: reorganize router files
+bea3e90bf863d64173a7ea5e5a231cd4885bb0b7 refactor: modulize request
+844065e61a5f61ad3e2413b810d5870fade05231 fix: closeErrorAlert not a function call
+4e117d649ef3a9659c0c21ebdafcbeb1ea1d5232 chore: remove  eslint-config-airbnb-base
+f86044e55d722fb8505fd7f63d07ad16d422ef64 refactor: load svg using svgLoader
+433bb4c8b5d2e62b22c88afde59715e90584d5e5 chore: reorganize public and home images
+666d6f0b384433dcb9e3f67950f5897c992834ad refactor: move common actions to finally
+988f084fab6449d2685fe8c27dca6af70d8ddb36 docs: fix typo in README
+07a38ef6748594be057fe84f4e68bbd00b7e7b28 refactor: move oops to assets
+0ed5df7c9c9025cff20aa274874e42384f45fa0b refactor: lamdaLogo -> learnwareLogo
+7b71d814a44fff4a7ddf46d141e7a21dd2663245 chore: assign eslint config path
+477ed0f0d6551dd4402f017f235f4d2aa1a506db chore: eslint-config-prettier to devdependencies
+d035782fea5cdf558f9de37ccfac7035308ced5e refactor: resolve all lint
+ed5b2bb5a7c891e2c55bfd06f26adaeb1fd9e957 refactor: lint auto fix
+87f1997cdd05926dddfef28767bd2441d66686fb feat: add eslint
+f67ecf1ab3607ebe6990e288e49a5cfa02404a59 Merge pull request #2 from LAMDA-NJU/dev_deploy
+c4e63b09c034db1243fd7e439f0116ea495282ca [MNT] Modify gitignore
+5893a6ed825990deae828b4a79caf13e4ff68127 [MNT] Change pip sources
+aa5ffb29fdc20b54c3e5a915421d93e0d1bbc5a7 Merge pull request #5 from LAMDA-NJU/dev
+316705c52e20246b834a9d2ddda49b2be879e674 Merge pull request #4 from LAMDA-NJU/main
+6efc79aded184b63db5962d89ef5f048430d4a92 Update README.md
+b3d609c53c57b2ebd76a0a1c00b80d956804977a [FIX] Update README.md
+ab40dc0ad8260e0de97ca2d004cc4825e160a5a7 Merge pull request #3 from LAMDA-NJU/dev
+e3fff790a96dd6062eb62e58305829c0e1849a95 Merge pull request #1 from LAMDA-NJU/dev_deploy
+4f65a315a86e70372d5a4d72e63579b9e0482eec [ENH] add deploy code
+7d893dd9bcc2159f07ec3d66d269d799c100dc2f Merge pull request #2 from LAMDA-NJU/dev_deploy
+7565a2d0a9399c645f424f9df6b984cbdc6733bf [FIX] Tensorflow to TensorFlow
+6b10907a4712b53725a17cbfa7b77d6b2c011d81 [MNT] change backend url
+68c8652b445fc96ce3558a7918d4396580e10c4c Merge pull request #1 from LAMDA-NJU/dev_deploy
+acefc777ed03dbd8e178d2a8fe53cebf0200d74c add deploy file
+515325f7dade2f6d6b397565302a65e23178053f Update file README.md
+2c1b1442a1ad56be47de5113939010ed46987c4f [DOC] Add Learnware API
+70e2eafe192b970d94ba323dad4e7f427e88a2d4 [MNT] Larger font in logo
+19a476088ad39b8ced03f7a1115b004677b892a2 [MNT] New color for specification world
+dbaf83070393978438f1e3ceb83b942668b2dd3a [MNT] Typo works -> work
+b52ff02af6cc7212d0fe731247bf9824d64a1097 [MNT] New logo
+64e467a6e37560ff027acc53f513523aea7f7eea [MNT] Componentize UserRequirement
+781371018f30e1614be183550bdc7da1c788d2dd [FIX] Fix page error
+a428abbff3f4c8ab8c8832c147b5c26d3607a662 [FIX] Fix submit url
+af4679d0f3c0e70f28a7d6978c8bb7c8206d4772 [MNT] Prettifier
+37a6595fcd8ba1fdd45c87b878accccafb103c8d [MNT] Get semantic specification from api in submit
+61e3c2413cda83346d394f4aa55ff77463963abb [MNT] Reorganize
+53443580991448bd1aadf1efc080a8de6138c40f [MNT] Prettifier
+aad7781226c2499d448ce4405eed61832095e507 [MNT] Reorganize
+a329ff6b1fed2522237c25a785ac56f77ba405eb [MNT] Remove redundant import
+5634833957091cc03c6441a4cabeac7f5f98a804 [MNT] Page args in fetch function
+c51abad47db1303830ab955efbded48ad555a620 [MNT] Remove redundant functions
+df7090a3f22a12c895d6351105a88bed5dff97eb [MNT] No white background in logo
+343d7c6610f0b6ff43dd455709477f2eda38638f [FIX] Fix card cannot click bug
+117038059368ccc997a06fc366643cbcb990a523 [MNT] Merge island.vue
+95a53b0689b7558e46e662f177f6ad2947412560 [MNT] Merge from origin
+8dfae1ec2e390112737bd68dff54c138a988998a [MNT] Squarize pytorch btn
+a89528739d1abaf77e8d0c0afd9398d55045fe0a [MNT] Specification island text
+eb023bda2f7673acd28445fd56b7e9107f04d77e [MNT] Why need learnware text
+b2f9cff05ce9d1185a53b304048189c11e76f6cc [MNT] Merge
+2c27597a88b71e0eaecd3b883494f60f909c6b51 [MNT] Card to div for iconbtn
+7fa78bded2a00756597891e1133d29fe76c840f6 [MNT] Optmize the style
+6013887b931fca683635bc3e35b944189ae0d6d6 [MNT] Text modification
+f180f0a7c893f31b0f2a1c71343a410a954884c6 [FIX] Fix multi recommend not update bug
+8997e512d029face09a43983fed860c4916572dd [MNT] Limit with for specification island
+c0e2909a1a711ad5370026ff94920db87ae600fb [MNT] Pull
+1d4e7b6a951cdbb2d0de5f2677f459449a505ed4 [FIX] Remove ishovering
+2a2822b29c570bb3083fb7286af0992e95ab22ee [MNT] Pull
+4baac0fff1b31132339c102ef7f93927952d5244 [MNT] Add disconnnect in island
+98cff194645e6e64f31efae3944cf062a333e16d [ENH] Add specification island animation
+da82567e089d955b36fbee60f21311007e54c09b [MNT] Optimize the style
+3239a84fa9bf59b13d4304ba7f66f5687fed2f27 [FIX] Fix download in multi recommend
+bc9b7aadf70a341ffe13f8cbad8e900cb866c977 [FIX] Fix multi recommend in page 2
+1d5ea7289150d69844db19314a939e10ce39e83f [MNT] Optimize the style
+360c7e6fdfee6f31615ef967ad6a2d0a2f7d3c06 [MNT] Add print learnware name  in search_learnware
+dbc9668a8c906ee5edaba02f0105d65e52aa36e7 [MNT Add print in search_learnware
+249d0119aad459b78dfd9de49c6d6313c2ba8bd6 [MNT Add print in search_learnware
+2c21368fda3db340260cde680e36d2d102a05883 [MNT Add print in search_learnware
+f4254c39d8126b729613342f50cce0632337f2c3 [MNT Add print in search_learnware
+aca7443c5f88e8feb6e961eac03ce5f1fc321cfa [MNT] Same active chip in card as button
+af9fa93dd0a36266d26bd387f752a751a374c276 [FIX] Fix button aclick stroke
+a4d8e2b949454a1166b756b9cdc8861f1e0bb9bb [MNT] TagList no chip
+d8ee2264a38bd347836f93a76d620dfa923ae366 [MNT] Others -> Other Task/Library
+27a1da9e79618cb08f8ab43bc7bcd27ab80a23d5 [MNT] Always show file upload
+612e3ce1b8435c10a78d314479bd9ce5180c0794 [MNT] Tensorflow -> TensorFlow
+cb7fcd5c7ae33b08ccaaa1ae0eec34f9759753e1 [MNT] Library type Tag -> Class
+5e35ff11e6f7ed19571ab5159edcfbe03faaba0f [MNT] Library array -> string
+42a90764139ae71e2bc1ee401b7396a85882df63 [MNT] Remove dc
+3fde5b79ba19b173c1ed869676cbfb792578f3a0 [MNT] Device -> Library
+52e16037a3e59b0baf6aa2feec85830f95da6d90 [ENH] Componentize confirm dialog
+a52f1c3a04bd7f48ee2accf77a46737321e58366 [MNT] Optimize the style
+054a48c99d3173fb91e64a352d0cf3bb874baa72 [MNT] Optimize the style
+2021416e2f7161cadbe5c071ee6ccad936220fc7 [FIX] Fix no username undefined bug
+48579415ac628432543f136eda870d69f07ccb76 [ENH] Add learnware card component
+12ab9e70299d61a200e041235c2afb73c645941c [MNT] add .value
+6a099cf1ec10b0efd8dd98b068cc17bd9ef68c2d [ENH] Add reset password
+faf73de4a1fee81e54cbc84551f4a7722f5fa21e [MNT] show recommended only when multi exists
+f5a04c35f9a112f1afecdb08ce0ad0f2404beaa2 [FIX] Fix upload hover bug
+53f1d8bfda8d33a6c790c11d375fda56181a1b26 [ENH] Allow change password
+ad733e4bafee719f7b5637ebcdee2ffacedea76d [ENH] Add learnware error info
+4f05f8e8d1549e78d9327a5d709549478e6d4da0 [ENH] Add username presentation
+d03d1fa39abfed515f157136200c25f09c2be3e5 [MNT] Optimize the style
+9d68527c1b776a75c489826951645a6e25a120c1 [MNT] Match score for multi recommend
+79940e32e21bc777f186b3fd86eabe752f2e45b0 [ENH] Add avator for learnware card
+825f0a87479e22c3ffcc561a5e40e563eb674f6b [FIX] Remove logging
+ec23186c38e231e624bbe1b5d0503abb3321171b [FIX] Add matching score for multi learnware
+b6caab6f4ead7b2e52188caedf0fc9310e7e9d60 [ENH] Add owner in learnware
+7bd0a9e42f5c35b1887359e96ffafa4b3c683ae7 [MNT] Process image to svg
+ade6e17816db3b6e97135b8a0f32571eb7f26977 [MNT] Add continual learning
+3bce04d0eb3686b7588469e6e04b3355e70dfafc [ENH] Support func for changing password
+688835d7bbe3678e6f56aed9376bd1afecb04f27 [FIX] Fix file undraggable bug
+6076b7260b72d8942706d09ec3da026a4ef4f5a9 [FIX] Fix login require errorin mylearnware
+2f9aaab32062c7ae53e85694220f6860a08d1bb1 [MNT] Optimize the styles
+0b6ec4d3cfb4b016301864f32918bee4094076ff [MNT] Optimize the style
+dce2eb138d10954d4a80ff272566a0a3fe7742aa [MNT] Optimize the style
+c79d0a92dac48403df0d5628035e170a82c76ba4 [ENH] Add What
+ca9ad99e6605a97fe5bf73d2165d603bc9343feb [MNT] Optimize the styles
+9a4e8e000272cda5577d80680e5558ca03725700 [MNT] Optimize the styles
+03ee5d9e34103eb11ca4e946fe5d3a5c693d39c2 [MNT] Optimize the style
+04e493f2d60439dd7ff4266e59f1055af62be336 [MNT] Format
+2e5eeac0a203c0e984547648083343282b6e124d [MNT] Optimize the style
+b8ebc108180e64bc73bafaee36736b9fccbb4b29 [MNT] Optimize the style
+c36557f8e78d1a7250f48dd84f1d2b94abea3031 [MNT] Optimize the style
+a53b8dfec61e50349a7d21278076816a76d3b0a7 [MNT] Optimize the style
+22ca3b1bbf3415083c6d93707d4d7fba82e3898f [MNT] no background for register button
+80f43defa6f5b95a4d8b7a2dbfcc8246f2e31fd0 [MNT] Optimize the styles of login and register
+2376b542ae944ccf0c2b049b6dded1083a33f835 [MNT] Remove elevation
+14ece1ef6744df0fc1c4fb18132b843c8d761b6d [MNT] Optimize the styles in mobile view
+f16e3be7bdafe81de3ce3e0f01f859230835fd40 [MNT] Optimize styles in mobile view
+0f4f8d607911488fa0a0191a7c3973f7eccf36fe [MNT] Remove redundant ref
+35f217ef85dd2e426afcbd0d00eca00631825c6b [MNT] Remove bigger animation
+0215a765b275527b43c2aad81268ef7ecb075dfe [FIX] Remove redundant upload function
+7a9d36fabae08ffe2285e3c56a4634d79170540d [ENH] Download all
+7e59dcd5e5c51cb83320eaa03942d05a7ada71a9 [ENH] Add jszip
+36b9e6692cca6e43448500a3183b26709b67cdb0 [MNT] Remove redundant import
+5872ab8db0695f6f77980e77db57e6cda1b01932 [MNT] Cancel the try catch in add_learnware
+a0b496c6286df8de5506f16b0b999f57d14190f6 [FIX] Remove deleted learnware in search cache
+e52e0ca9ef55461e21fcd2bc1cc87bacabe040f4 [MNT] Componentize submiting dialog
+c4875164cdff227c8d94be40494a4238a774a398 [MNT] Get semantic specification from api
+5728677b8cbf0c863473d02f6ed21b67bf6d2fd8 [MNT] Remove generation task
+6a1c0cd320b863389f81f03dd92830437e0f2867 [ENH] File format verification
+29dbb6e07a3f05cc6ba9f93a170903d75c08d8dd [MNT] Keep alive for submit
+34d7db6b41b24c79b33624b56c478d492cad76bd [MNT] Normal weight in home
+d9cfe1abca7a8488b092356a55b7c6ab3ce425d0 [FIX] Fix button no height
+9c8989fca49c0778a12a860b56cd97a57862d372 [MNT] Optimize the styles
+dda126b499ac3b005b6baae8850472c970cb8925 [MNT] New LOGO
+d121335d04514f8859fa5452bcc51fe0cf02eb1e [MNT] Optimize the style in mobile view
+5b120973d6491ff7af95f7e385a64640979dec5e [MNT] Optimize the style in mobile view
+51befa8f181969a826aa1de230e9dabbb778a675 [MNT] Modify port parameter in main.py
+c4e370f8e9a1312ab569a6b2fd7515380b24cac6 [MNT] Optimize the style in mobile view
+5e9fc56ab22e6d948868caf897765cee81b31ffe [MNT] Optimize the styles in mobile view
+131afeac3db58e5b0cc6028ef193e61661c708bd [MNT] Optimize styles in mobile view
+2a963860a25bd4dbbe9923643249d984ddffb05c [MNT] Add anchor for scroll
+a86c8936a0cac6ac788c9bd9fd6d3e9d044a48e2 [FIX] Fix scroll to top bug
+ae228ecb3d3ab380b1d90ad338e23c1894651f57 [MNT] Optimize score display
+cacc7d5a5ad4f1299b560ae675e4be9e1ec89568 [MNT] Modify the init password
+757d18c4c00a684aebb76285bf271da3b611d5c2 [ENH] md5 for password
+6f2e35288a5510a454296d2a404cb6ce9a0c29e6 [MNT] Fix typo
+4af45a9b16531e61df8ddaf5317c0e0a4c938ba2 [ENH] Login verfication before submit
+7db2a2837e759605a95e6853b366a0a1a9a817bb [MNT] Add port parameter in main.py
+3fc2875f88723110d3420dfb18c9f1f95acfeaf1 [MNT] Optimize styles in mobile view
+2ad0db5afb80b505f8a068af597306531f8fdc24 [ENH] Show learnware detail
+4d17635f6905d8b90877cf89cff4fcabad360364 [ENH] Add time limit for cache
+d356bedd6b9005bef67ef61176ddad768a361027 [MNT] Optimize the style
+05a3be225a75af36dc205910a9242c5b67a4f750 [MNT] Optimize the style
+9d80a80babe923a29c42221fde26995c3a998a7f [FIX] Fix download url
+9793ee4bead2602bfa0180e87335c3028450a420 [MNT] Optimize the styles
+ab48d5d0b05f1eba5737d144f8253b1169cebf39 [ENH] Allow download all
+50755f493e1bf92645c0c51106dc50171b4d4d29 [FIX] Fix bug in download_multi_learnware()
+36ce3f1b00b512566ec7c4ee3172c23c3c1aaefd [ENH] Allow searching
+be375305d8ff6330df2b41d03806c67820a12563 [ENH] Add search_learnware when no statistical_specification
+82a3bbd4e260ed996f060a936fe368cc326fadec [MNT] New slogan
+c8e3c3847fea87787bf5806e94e214adc1c3c36a [ENH] Add get_learnware_info() in api/engine.py
+529c13451f435b138f4a53f112b207d32daa2ea5 [ENH] Auto refresh when activate for MyLearnware
+45ac22db853e1c6fb00bb35e0b33a549de8178f2 [MNT] Array for data/tasktype
+6b568610d0ba08d6e26275f2521b0b0886aefd4c [ENH] No learnware image in MyLearnware
+29b0ec622113c666ee04d5ff0f9ddc5d85b6416f [ENH] Oops image
+40092a06d37a4a28765588f11dc64b2505bda474 [ENH] No learnware image
+8a06d47d99bf0f21623f6a53af75716436401daa [MNT] No border when no items
+7c4cd776ea1408cb4e5a02a1ba4e7ccf0c6ba456 [MNT] No download all when no learnware items
+223204318bf3c257c632692ea2e25bc2858f20aa [FIX] Fix bug in download_multi_learnware()
+8720cc2c07ae7c8d489e4af468c20a83cedb2b9a [MNT] Optimize the style
+21043693c55bf55f5849750db2170030444cae23 [ENH] Get learnware info
+0fb2fce3059a15e393fe6b378ef4f8447be0de69 [ENH] Suport download multi learnwares
+5095d69573da9bcd3d80a5587eed63cea7035d22 [FIX] Fix bug in search learnware
+3a09d8eabfb40271ec8384acdfe2f4cfde1dfdaf [FIX] Bug in search_learnware
+607ec12df010f33728ff140d97c0e6a2089e8c16 [FIX] Bug in like
+b87fd92bcd6ccdd78200bd051c7516cabe08b09c [FIX] Fix bug in like
+e33c82994b3f4cb5e82b8b3e9aa0525243878990 [ENH] Support search user
+0cf8a2d65d3a71a3e029fe04e48b5de8b83fbea7 [MNT] Optimize the style
+d5d08967aec77a8d7217c440cfbaf1f6e8f8dac8 [ENH] Add LRU cache for search learnware
+a42a6b7b551d07f5066fde56a55ae062c4bb6d86 [MNT] Smaller big
+1f1132711c355dc7a4bae1e9e38d82aafb26c2f6 [MNT] Format modification
+a2567a8ea99c0b44ff3c1e111d949dbdc6b234da [ENH] Filter routes in app drawer
+442db18c6e44dd89cf4b5101a684c394cedac87e [MNT] Optimize the styles
+2ef40d1ecb63d30de4bffdeb7ec995609cc11180 [MNT] Remove redundant variables
+9f810a4b222e761c3b331ad1957ce7841bfd8e3f [MNT] Loading for multiple recommended
+15cbad62c3cd79df5fc48e2fdba6ed747391c81f [MNT] Loading for multiple recommended
+b53ff2884ece30d2b61532214eb77bbf3153202d [MNT] Optimize styles for multiple recommended
+7cbd6f078ba5dc7dded43b7f15c94c5809974a64 [MNT] Remove redundnat console
+81c5ef478dfdc2dec64acfae9811f2420d11c88b [MNT] Show edit not available
+5ea7f75bebd1d0edaf115838d200272865283076 [ENH] Allow check validation for submit
+d8614ffc04da12994e69e1026742cc694abdfda2 [MNT] Error message to the top
+29f31ffbc42c027f946c4bdfae96c9201fc65422 [ENH] Allow error message for spectag
+4ff6f12e03ffb2cf30905e18eb0f0db2606f888c [FIX] Fix undefined bug for taglist
+5fd46a765c3af664b5d366220543550685e0c30f [MNT] Value type allow only Array for multiselectgridbtns
+df2ed16cf7aa2d81d11bc408375263d97c99ee63 [FIX] Fix value prop
+4ee8517427e42921832d2ef4781d02f27521bb9b [FIX] Fix undefined value bug
+09bbc3e161f2529fb64647fd628f6a0df3e273cd [FIX] Fix scroll jump
+98ca7df24d97a850fc235d537c7d524a602ca987 [MNT] Optimize scroll animation
+098f9f48c4a98f31ec9f832175310ba2d85e8377 [MNT] Remove margin in logo
+5b0a9205645fa00c991dba302f420d640aa5b828 [ENH] Allow download
+661395ff84309991d54c0f1a813e385461a49168 [ENH] Do big animation
+135e52d5f961b9f83d6c28beabfe8eae374e8f47 [FIX] Fix bug of limit==0
+61a6fb64de1aa79a7ab67b67908118575cb8ebb7 [ENH] New logo
+c224e0de32ade1a4c065773a77147abb81fc4ab6 [FIX] Fix bug in download_learnware
+064879d3f92c18f8a369d50536890011662bb8fd [FIX] Fix bug in api/engine.py
+047b62be4ec7b199e8aa6a36dd25b46eb8e93237 [FIX] Fix bug in api/engine.py
+436b22a6f362ad2867c1b383915fc031a5190fc7 [MNT] Math score -> specification score
+3d3a787684dd3fc4a0a38a03b549a02dd422c73a [FIX] Fix logout fail error
+32766c859682ea41be403ea37dfc3d3a122d07ed [FIX] Fix bug in add_learnware
+ff4ba830bab272411ea94d6b4163e42cbf63776b [ENH] Login check in submit
+4edfd501e4c2c417deb15bb97e5a6fb6d82cc60c [FIX] Fix bug in download_learnware
+e23f4f2fa17ac0c969dad4c784913608a4e0eee9 [FIX] Fix bug in download_learnware
+b8d05f9946e3d1128fffa3a17d17c6278a035e13 [FIX] Fix bug in  search_learnware
+6305fb6d29884e9a5dca0dcfba332ce1cfd389de [MNT] modify some annotation
+0dcf34fac4c9968b5173aec74815a7b994787e6c [FIX] Remove initial account
+7d62f30e4752ad51188e393a3a3adedf1218218b [MNT] Allow edit learnware
+45ca479767e82989ce4face649c497437c64d768 [FIX] Device type string -> Array
+efc5f121d8bdbd556b65fd5732a13a4763124dbf [FIX] Fix page state not cleared after relogin
+611c76b4af2b77e0fd445245b71fede0f84a365f [MNT] Change tasktype name
+0ccc637a3babebd4d647b69be88732c81b653732 [ENH] Add download learnware
+2622dbcb792b6dcb6710c1b71ec0b092b36b9814 [ENH] Devicetype single -> multiple select
+ea9956bffc1a9d778dd15ed1527cc091e07fd45b [MNT] hardware -> device
+0f4338d583d168e7235c13ed77ea365faff9de75 [MNT] Remove error timer
+8c6a5f525e3e906b383555f27277e2534ff456f4 [MNT] Show pagination when pagenum > 1
+75614860a43f805d6927f53eb0bc6ee9e1f44ba8 [ENH] Allow press enter register
+a0b494f5ea69bc958e3fa7173c6a4d1d1436bc32 [MNT] Optimize error msg
+d085bc34bf7ca0eea808508167b8a2e12b0625e6 [MNT] delete the user_learnware_relation initialization
+56bb688bb5f2ed57fa64642b23f484cdbc9ffad8 [FIX] Fix page start from 1 bug
+9e88217c0333796b6574448474aa292e2fcc6f1d [FIX] Fix formerpage bug
+d9f385d0116349eef81bc17ab18840173503973b [ENH] Allow delete learnware
+34ac699d0bfa032d91f755c1e799ec6715454160 [ENH] Allow fetch leranwre
+d4f870073d506b4b7429af1efb3159a5c97fe5e2 [ENH] Submit error handler
+7cdb4598b15d95b48ec95100d27bb477b5de198e [FIX] Fix bug in api/engine
+2cf56c96357a7098016a97678430ec5932c30c9c [ENH] Add submit animation
+bc376e331f57d1e7c3d1e78e66673fd66de915ee [FIX] Fix bugs
+da3a448d52d10b2729d72e9c88eafd6baf69f999 [ENH] Allow submit
+16888e00782a32030ecdb5ad5e83950aa17149d0 [ENH] Test get user list
+f2cceacab994e764cefc4e7f3b676018f780418d [ENH] Add lib.engine
+b0061fca1971501aefd1cdcbfc3d89e3529d81b6 [ENH] Add empty instruction page
+7706c0bb739a38816123e26f8a5a62166910874e [MNT] Match score when has files
+6b51eb2c2bdd02bcaaebf2b5e57fd6e1b2f8a109 [MNT] Remove redundant import
+bc11bb0176a861d054f9be075e62c69b9957e39f [MNT] Prettify
+be8e4837d42e695ebdc7762ecd056c314fdc4d8b [MNT] No match score in my learnware
+7a8d444daec8d67babf54e09a1abe0695cbf50ce [FIX] Fix page.value
+bbee3e34a48eaa047d63dc96002940570cc19fa0 [ENH] update .gitignore
+80130223cd1d83418b9a6e47bfa5ae850fe357d2 [ENH] Add remove_learnware in user.py
+313951752205f70a52df359c34206eb7d8359dad [ENH] Add add_learnware in user.py
+19b699659c612102ffc7b3de81ef51b82c4b87fe [MNT] Auto jump to page 1 when filter change
+356360bb53b5d0f9ec6a2f59cb34feaf8fb442f3 [ENH] Edit theme style
+6fc0e1d2a07eff283f09aaa416f85f142bcf72c8 [MNT] Optimize the styles
+f814ec60ca36c785f57a57fa0336f448ba35fcc3 [MNT] Optimize the styles
+d4bcaba0e2e02543886435b98b998d9d3a5ffe28 [ENH] Allow load/save query
+a952d5f4096bd70f1e9f7b66725527ab0d37ff97 [FIX] Fix wrong emit value
+bc5c9b6233f64342e8dcd40edad469cad483d93d [FIX] Fix recurse bug
+f18ca6e05d16229d253267ccc58251342c510738 [MNT] Random delay ms
+3f2f71ef5dad21db9119e98ba2b28d1363e5eb51 [FIX] Remove load/save query to avoid recursive
+48080b39f2827cd9d991abd372038743c1d2912a [ENH] Auto scroll for MyLearnware
+1eb7ec557ba1ce644535e06b7a43d0006999114b [MNT] Add margin bottom for pagination
+ca1e6263fe72729d1f8b00b4e8be6c3512c6ac6e [ENH] Skleton list for MyLearnware
+9021837eb4e88837824f3f4c7ef0220c5aba3404 [ENH] Finished skleton list
+c4d7f903210d50597ed4c05ef23b41be66886158 [MNT] Move fetch out of pagelearnware component
+425e35de31a58a434248821d71571b8c60d65565 [FIX] Fix no value bug
+a49f3ef5f6a9388b2022f357761d586be952682b [MNT] recommended -> multiRecommended
+934886d724f1e6d10758fd5ef40b550bb13b4332 [FIX] Fix mobile display
+a31b64f6a0c2eec75b10e3b6d6d7666a5026175e [ENH] Add skleton loader
+54fb7d7c615daa26dcdb074be8415467f73690c3 [MNT] Update vuetify version
+e5d4862189bf6140d0369208db4e77c2b08d9072 [ENH] Test page loader
+4d79ed684897cf1fd51a15b560e76abfe7ff711a [FIX] Fix undefined in search view
+569a06f8fc996a2bbdd8c7306af619fffc6273f0 [ENH] Support market
+71bebe6f1c1755814b5954d424d25bdcdff4d29c [ENH] Add "Search learnware"
+da32e0872c26124d6766596c923d520cbad28477 [ENH] Add "Add learnware"
+624cb738eed643e5f70e0298f5063d76a8fdde4e [DOC] Fix Readme
+9db89ddef57d0401430156dd00588f07590a3674 [MNT] Catch logout network error
+2041270c2754df233d65839f18c009458d5e1232 [ENH] Login first global error
+ecfdcab575c05fcd2620613869c393ca2e2cf3c2 [ENH] Enable showing global error
+f54b1808b21e6d5e670096bf8181f2be7cb7faa8 [ENH] Login auth in vuerouter
+233994c5554d91119dac0462b037e6bafbcd36b4 Revert "[MNT] Eye icon move to inner"
+e2f2c5d8edb8843865a691e6a43d6f8a445c2d7d Revert "[ENH] Login authentication in vuerouter"
+1bf4311f501f3ccfcdb937ca4fa757deaef9ef39 [ENH] Login authentication in vuerouter
+96df909bbeb64e9ffe4c06b5533c3aad4f8361c2 [MNT] Eye icon move to inner
+0eeb9aeb00f85a412c7c0f14cb43371a31eb20e3 [FIX] login -> register
+956d87213869ea8383b623e01fee3c8ec445e6b4 [ENH] Allow clear uploaded file
+754963523a808c0555c63a0830a6df3fa486941b [MNT] Fixed long text in upload
+4944f19b33501fd0cc91e6f13aa4b5aea2239753 [ENH] Save filter in URL
+0c8d654a5492d30c51abed096e14ff9301446fc1 [MNT] Optimize the styles
+af68108fb66990d654232949d23f206fa6bf8762 [MNT] Optimize the styles
+577c35c7e34df8dde4df321ec903449e5a1702b3 [MNT] Yellow to orange
+b540e238b6f0a7237fc94fd5f57045affbb3e820 [MNT] Optimiez the styles
+19dd4b0894c01fc294a31076970d51f23093c677 [MNT] Optimize the styles
+0e2bcb5db0120985759a7fc755fd5c30d85a2c31 [MNT] Change icons for extraction and generation
+2ed3bb3d82a8079cf98aeac1281e62ce307b31f7 [MNT] Modified by TP
+8d2a7d266c812612e9e31de0330bb42564f6841f [MNT] Add error msg for register
+15dd158fd7cfd356423a4a538445b35847ccfec2 [FIX] Fix network error bug
+d600c2ee0099b92269836eb0cd5b4560797d0c13 [FIX] Fix login error bug
+b0b7c8b0bfd7a11e325967a63029267725cc7feb [MNT] Error message for login
+45b43290d5c90fc2be67617c0a1e6e743a725cf7 [MNT] update response format
+6191594cf7001bac599a79fdae81ee51ea81c0b3 [MNT] update response format
+abaeaeb464b32c7e4c31f417ac864d70b1ec6d01 [Doc] Update readme
+39dd3871c49c55f0480d1b1dd02339f1fbac9534 [FIX] Fix bug in Get Learnware List
+ed0892923630b60655713f346c34981664ab5ec1 [ENH] Add "Page Limit" for "Get learnware list"
+e99743c356c43bbbb9d1d38db1242ff5d8c33de9 [ENH] Add "page limit" for "Get user list"
+ba4205db1b46d6ed7ea0d80e95f65e5176340745 [ENH] Add "page limit" for get learnware list
+22257a3be281ed23659cf364af190261424337ec [ENH] Add get role function
+df66cfb08f3775ae90af50bbbad48a27e05f1a61 [Doc] Update readme
+f109f3173b609e392518807631712e3b175007b3 [MNT] Optimize the styles
+7ac33b17c9d13f0eb2b79fb7084ac9e9070908e6 [MNT] Recommended shows only when uploaded
+7d0630ba1911d215f617faea50298cdd2b49e03e [MNT] Optimize the styles
+36bf106596018b629f5dc8d9dd3b729e180afdae [MNT] Reorganize the component file structure
+7712488522836a431dc644349667337ed1f401b4 [MNT] Optimize the styles
+29ee8c5ed9580d83945f18aa41c61ca2f66c614b [MNT] Logout request
+7a9782fd44fa08836fb3a3b5ac3a6a4ac299e0d5 [MNT] Optimize the style
+c5306fcdb914df3dcf26d9a27c0db148f8340aa6 [FIX] Fix bug in Get Learnware List
+e4619fabda990d994a339d199d1ecdb17bad49cb [ENH] Finished login view
+0f7637c7857b1032bb4981d3c1fb4f00b0504222 [FIX] Fix bug in Get User List
+ebcbdf9918a9a111e9bdad3bff5b2c20da84046b [MNT] Remove redundant ref
+1bb8b40aaa57e136d7fcfba9da08b2a5aac40103 [MNT] Remove redundant ref
+fcf02a6e6bdecc16e813d3442f71abf7748b222e [MNT] Remove initial data in register
+c39f1758897974d550f2f044d6cd4df231fc4b72 [ENH] Add error handler for register
+7bde574b32cf1bb06a9672a610473d4a7866f197 [ENH] Add reverse proxy
+9f0899990d149cae5b9fd78b8f4cfea4a1a13458 [ENH] Add register successful dialog
+69cc37699e31ebdcf6f87ca54167e4f63465c836 [ENH] Register validation check
+db6672c3c68e61d3d79bdbdbbaaca04b36ce972d [MNT] Optimize the styles
+78a78567bfa53263675c174e0f209fe4b35b153d [MNT] Optimize the styles
+d7cea3641a763287adda9dd5febea98605aba4e6 [MNT] Optimize the styles
+dafb1c8b495465834c98d0c95c71440e687ee937 [FIX] Typo
+c7a1440ec665392b36cad990927d3695b433ee4d [MNT] Optimize the style
+34fab65d2e4ec025faa5fdb846dc279d5ed95e1b [MNT] Statistical speficiation -> learnware
+267be2bf7cf44bf2c1d978ad85188ae4635db9f9 [MNT] Optimize style
+989b09c4061d78f158b81a0c0979ccb9fd5f107d [MNT] Edit recommended reasons
+d8745ee09230b7cfb7f149d7ffbb00a7469ed19b [MNT] Reorganize the style
+25820eddc6fc24b4f4fb83883c2ce27db6654899 [ENH] Add recommended and unrecommended
+8152835d341a1908fdec9bbf3b73270aa501e36e [MNT] Remove all console.log
+a5da78c806280256e08b7cbd932ad4c79d8ffc56 [MNT] Align the match score
+588ea7c013daab8004eaaefa620f4f0cba5e8a6f [ENH] Add recomment
+307a825fc9c6ab2887c3041b1fc7fcc8ddcac586 [ENH] Add match score
+dca024182e5e2647f897aab4905f471405f776e6 [MNT] SemanticSpec -> SpecTag
+96ad8d660b70872a649452d764158f60fddb7439 [MNT] Provider -> developer
+6a8bfb38d9149befa957a06d8c72bbca37bece1a [DOC] Update README
+cca71d64204a5b63f16ef2963ab433a025e64c4f [FIX] Fixed My Learnware route name
+03a0ce5f448be610af31cbfe82dafa29bd4ca52d [ENH] Saved scroll position
+8d641f6c64f3016be70b7b601cb219a99dbce3c9 [ENH] Auto return to scroll position in search
+396c03d04f141408ae586c8ca75fc5819e4a3805 [MNT] Change to 1000 random learnwares
+7c960410f07f3d9844c06df7ff04fda110013511 [MNT] Move submit to the right of search
+209a1b9e01d9398330e4dfd530d87dfadcb5e92c [FIX] Fixed title size for GridBtns
+f258a443a89922934d403fa4517658061de40a08 [FIX] Remove useless watch
+2cf9fa5763217676d1a9bd405573048ed27a5c5d [ENH] Add search by name
+affae551d740eec312df2244dbdd88583983403f [MNT] Reorganize the files structure
+0bb7b5fd66e1bc824e7e8efa3094b0a8d18cbb66 [MNT] Reorganize file structures (move components)
+53ee3656362811df6610b02babe98da6844c7fcd [ENH] Add download support
+df917624f739fbeaac3dd025713baca213563bab [MNT] Remove redundant useRoute in App.vue
+77daa005bec72179d9f58b8b36a7525e78096bd5 [ENH] Add keepalive for Search and MyLearnware
+7ed30eefb790828339bd1829dfaedffe19cd9a36 [FIX] Fixed typo
+5cbf16d08c3445be1278c87f5c151fefe3036c12 [MNT] Add keep-slive
+7339fbfdf7daf94405f39f7f4a063185d0d12f68 [FIX] Remove redundant loggedIn
+1c7fccac5b806a4101c2a99dbf0714dd3d339dec [FIX] Change to 100 random learnwares
+5f61e22663f07698b7a1f312f557bf8a3e59c4c7 [MNT] Reformat code
+f52b45d12594acac5cd785b232e24fad701c6530 [FIX] Fixed edit and delete not work bug
+0b14fa6d094bf1102a2a9a9743741569e7a276fd [ENH] Add vuexpersistence
+802b39b3ee905446535c8822b8fb92ef4d476eba [ENH] Add learnwaredetail page
+bb50a9adc552320434a6e61521ee589a00361273 [FIX] Fix empty taglist bug
+1a116c1ece20a32a01dd331c22e8c741a863e77b [ENH] Click jump to leanrwaredetail page
+2491fb873eccd55310208197aef23edd7b72d18d [ENH] Add edit learnware function
+59a4e30e45db475a3a332c6913851ab3243b4d5d [FIX] Remove redundant import defineExposes
+8a3daa1b039e5a8bcfe1b703c63db6ffdadd1ad8 [MNT] Change learnware title to name
+561b0048d4ef1b64f34140ed17884206a00fbd2c [MNT] A demo query passing
+015affa629ea842e24b01d44d147fa9dc624decf [FIX] Remove redundant usedisplay in Submit
+7856b7be8aa6d9c82b14563b03ed2642cc959977 [MNT] Finished delete learnware
+6b0f4f10c26ac0678c9e2ad797f146cea31ea39f [MNT] Add random id in MyLearnware
+6175b928c68ade1a64f6fc10343fff33b32dc830 [MNT] Add id in random learnware items
+7d2462fbc04253bc8d835cc104a8fd35cdc2cf1b [MNT] Add delete id in delete dialog
+a91b039a9dcc3ea0c7738236b23306015a40f24c [ENH] Add MyLearnware Page
+fc70c7c2f694f0d42636967e6184da6fe72d7d58 [MNT] Add responsive col size for learnwarelist
+f6f550d8df87bb3a67741a1f344d259d36f364bf [FIX] Fixed upload size bug
+ad1ffab4652635373c41eb2e3bc02d97a96ed0aa [FIX] Remove duplicate tag in random data
+d30175069716292107beb1bfa229253909e61b9b [FIX] Fixed submit style bug
+5248d48d771f1b612ca1fa28548be093df5d5413 [MNT] Optimize learnwarelist style
+df2d0d4dc7c724a04b100774148d8aada98cad7c [MNT] Change chip color to orange
+c33954db35a48362319a60d975021c90cd35fd35 [MNT] Optimize style for learnwarelist
+f8c48cc27bd12d078c1fab403b41f902a3f98f4a [MNT] Optimize the style
+304f0dd51216a0b8ce82f1b140708aa33844d0f6 [MNT] Optimize learnwarelist style
+8dedf807281f2e567597bc93065d262ebe121c86 [MNT] Optimize style for learnwarelist
+9456c681a110ab6b194b0c33d17ab43207088c0c [MNT] Add taglist
+4b88c2572f87110a4f0afb3fe649224761f3eef3 [FIX] Fixed responsive cols bug for taglist
+e6924d0221220284c76d8e4b9ebab19ecd4d7a6a [MNT] Add different cols for tag
+07177a59f4f3e92d9f8c3a8f792bef544da84b0f [MNT] Add value props for TagList
+7e50b3f0dbd07c7132f7581f20ba11c061037b7b [MNT] Optimize learnware description style
+c7ac16bba47a4e4955430e4d5cf6441919d5414b [MNT] Change learnware label style
+ca40cbdfef91198a4b8286270063b814e92a4e4f [MNT} Nowrap for first row in learnware
+3c36f7774c2b93d7509b8798014c89e5fd4e418f [MNT] Modify types style
+43943563932eda2cd94b440b628fcadc690c212a [ENH] Add no learnware tips
+66a31dba4a25c36ed020c368d2ce664af8b8687d [FIX] Fixed font size for learnware list
+de2653245ec350fb4cf4cf6ddb9de4ae3fbb93d8 [MNT] Remove clearall button
+56694a43ab753ced38eed36f77be5354c567c06d [MNT] Add transition for learnware list
+de17ccc365fa0b4407570bfeb00057fed734baab [ENH] Add learnware list
+91e6566c7631598b310777a1cd8455ca406727fb [ENH] Add empty learnware list
+c39f0bfc6910283a7d3f1ba970750188a1e4bf1b [MNT] Remove redundant import
+c044ddc2586514444ccad99f4feea00535aa8103 [MNT] Fixed fill-height bug, change height to 30
+fe81290048a2c5452c2532ab6298d05a00506783 [FIX] Fix bug in Get User List
+16dffea469a4b2887e2ef220a9e4210385194995 [ENT] Finished filter
+a2d789a529b6875719e019de637db73b5c70b0ca [MNT] Change cols/md/... to props
+82414d86f95b1582740da98cd706fb7e4d95a6b1 [MNT] Smaller title for gridbtns
+5a5d9be8c14ce3b59023d734c4ef81f9a1dd6d13 [MNT] Change container to main-container for gridbtns
+51b3069c123cec1c1c112df48f0678931d34aad1 [MNT] Change cols/md/... to props
+498b611d1c2ca9ef7534575807c4e4de0f0eb9de [MNT] Wider app bar
+f7f5b8dc36bef4e8d312fac91d5af8b7686a3113 [MNT] Fix path of MyLearnware view and set empty
+eaf908b858ad2f9dc95bea850d365e7f24a5c6aa [ENH] Add logout view
+777eb4e334cf5dc0e3d0d45a3a01beb329b82d0a [MNT] Rounded button in app bar
+6ad040b2a09d34dc9f100d2d325e87ade5eb2a33 [MNT] Primary for register button in app bar
+aabf13be184c2cd5f47e5c98bd4e896c7976946b [MNT] Remove manage pages and add logout in router
+d9467670857e6f9cdea9579871e0e57e8c1eff72 [MNT] Remove duplicate logout button
+8b8c96542924c4294d72b3dca41694db814fe479 [MNT] Smaller button in app bar
+55d2a399e770cac1797ef081db5607313f0d9d89 [MNT] Remove loggedin props
+ff3b18792969ef8e7f607c16f43af81fe2f7e428 [MNT] Flatten app bar
+5b1d07244d5824c53d50930c90d9921fb191563a [MNT] Add virtual login
+fbe53544399ee195dfc08a78965302eeacfbf1f2 [MNT] Add store getters
+a90b0e145a6e8dd5cf56f84b912713907643a9b9 [ENH] Add store
+c6704d7b69a1d6f57696c94b1debfd5ba4dea13d [MNT] Some pages required login
+08b4c2f15c4b880d0aec68495c2ae2a2d8faf138 [ENH] Add vuex
+ca5daf58803265c24685b71b237e69c8d4fc61bc Some view required logged in in app bar
+72f6825df503169caddac2b26733f3dd8bc7c063 [MNT] Add empty pages
+7de5ad3a74486b7d3ab6436f8a74d157aaec935d [MNT] Move stepper to top
+09487a2d8ff489bd10400c121bf7f4cc20c15aa4 [ENH] Add engine functions
+ea04c7e49dbdd38e3f30518fb5a4940d3e034b7e [MNT] Title font size for submit view
+48e95462cbe07046ee8e45549f7e3f7bfebc049b [MNT] Remove elevation in mobile view
+a654a841cbd8af37b3f8cbf24de2f7aa4480b72a [MNT] Gray background in mobile view
+395dfbf600a2a350f9337bdf8acb87da48af3f8e [MNT] Appbar flat in mobile view
+87feef79ecea064def7e43546abdcf3647c43ff4 [MNT] Optimize the style of Login and Register
+8128b5daf3e75240977fbd155024a8634d51322c [MNT] Change right margin for button
+40ead5d728cc95d456453242fd864c765c1c644d [MNT] Router from import to props
+76b65ffb16147df45b59eb19748bd31298febc00 [ENH] Add semantic specification
+88b87319c24f604ca557c5496a84ac6f24bc4613 [ENH] Add api for admin
+6e6d835c924a9db177c0d9172d91fe850b83dfa1 [ENH] Update status code
+fc6c3bbee19e739f78ab343a1beb307865b0686c [ENH] Build auth.py
+7b853f4386f7bfbf7d9762d8de2f1117fe5f7511 [ENH] Add add learnware
+aa54d85a3c5005a2e6f4078394318fe1fee2d288 [ENH] Add learnware
+f5b6ea0de08334b3cae63fa86d300bb9fab1b469 [MNT] Rewrite admin
+d5bf1b3d7f06a628bb79bf3e966abfb9e34d579e [Fix] Remove learnware code
+6054609b9816bb4796f9d6d640f15bf704d0d5c3 [ENH] Add delete learnware
+3955bf6ff432109333e36d14073dae58d33f4e6f [FIX] Fix table name
+b4d983f6700608e3de2d5a33f553155886023d54 [MNT] Rename lib file
+f8579e5167364af8624902ca6effe9bc88d29eb2 [ENH] Integrate learnware market
+29b0b966f067782b0fbc439eeafcb8f38dbf4abb [ENH] Add parameter error
+b8e114250f918a351c441a9142949e11f306a3ea [ENH] Add ignore for learnware market
+d4f037114aa42ea8e7eaa9e7c0984ac00ae7a3d3 [MNT] Reformat
+3fa3f1a42f50c082d4ccdbe646d8118c65c6717d [MNT] Change routes to props for AppBar and Drawer
+40c1b8a6d8a6d93a3cf55c3f609088909e7f5c08 [MNT] Adaptive file text size in Upload component
+13ccbd2eb6f7ae7d53e77450d26366b701517c55 [MNT] Add commit norm in README.md
+44fe64ea657c3d4db18abebb74fd8e74994221f6 [MNT] Add .gitignore
+3580ae6f497cb540fb2e3683efc3da23581f8baf First commit
+3b7f64d720378304185563b28193355fe8e97bc9 [ENH] Add Get User List in admin
+ddef9a876c9448ac389691a513475ef36f746119 [FIX] Fix bug in api/user.py
+ad4da46cef24d3719b3e0738f43b02ed6feef81e [ENH] Add Get Profile in user
+8cb99017bc71b1c883558631144dd67f1af3dafb [FIX] Fix bug in api/user.py
+d7fc4cad807a48a60a2ba918bcb99ba66971e6d6 [ENH]Add user register, login, logout
+dedcdda0cdab339a247c0f507659c8fa486bef34 [FIX] Fix bug in environment.yaml
+24c6a81afbcabfa5061e7abeae854c09cd4b95cc [FIX] Fix bug in environment.yaml
+fe8f55eb85ce681ecfe75047a5754058a940be45 [ENH] Auto-installation of SQLite database
+5e43ec47e49f45906afaf694f4d51f53df917d83 [ENH] Add projects files
+ca459f8a8eeded96d76171920376c5161aebb288 [ENH] Add lib skeleton
+b8b69d4e14efc8bc111b684c55ae48bd7306704e [ENH] Add API skeleton
+8f72a79667ab3374228d4e93b47083d49dae6af2 [ENH] Add database skeleton
+93d96b3df73d402709dac33a9f55a1a196a0b0c1 [DOC] Update README fiiles
+9b53ece9cc2b7cd58df353c688cecf4ee56d8d93 [MNT] Update Git Ignore
+ee0a84917a1dd955c2ae79567118b02c234e1d21 [DOC] Add README
