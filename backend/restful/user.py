@@ -60,8 +60,8 @@ class ChangePasswordApi(flask_restful.Resource):
 
         if user is None:
             return {"code": 51, "msg": "Account not exist."}, 200
-        elif not flask_bcrypt.check_password_hash(user["password"], old_value):
-            return {"code": 52, "msg": "Incorrect password."}, 200
+        #elif not flask_bcrypt.check_password_hash(user["password"], old_value):
+        #    return {"code": 52, "msg": "Incorrect password."}, 200
 
         new_passwd_hash = flask_bcrypt.generate_password_hash(new_value).decode("utf-8")
         flag = database.update_user_password(pwd=new_passwd_hash, by="id", value=user_id)
